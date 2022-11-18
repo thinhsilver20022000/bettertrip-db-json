@@ -3,7 +3,7 @@
     "$oid": "637107d2863549a94c6806af"
   },
   "AirplaneID": "VJ001",
-  "AirplaneName": "Airbus A321 VJ001",
+  "AirplaneName": "Airbus A321 neo VJ001",
   "AirportID": "SGN",
   "BrandName": "Vietjet Air"
 },{
@@ -45,5 +45,405 @@
   "AirplaneID": "VNA002",
   "AirplaneName": "Airbus A321 VNA002",
   "AirportID": "SGN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374625ba822d64ce2003449"
+  },
+  "AirplaneID": "VJ003",
+  "AirplaneName": "Airbus A321 VJ003",
+  "AirportID": "HAN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746277a822d64ce200344a"
+  },
+  "AirplaneID": "VJ004",
+  "AirplaneName": "Airbus A321 VJ004",
+  "AirportID": "VII",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "6374629aa822d64ce200344c"
+  },
+  "AirplaneID": "VJ005",
+  "AirplaneName": "Airbus A321 VJ005",
+  "AirportID": "UIH",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "637462ada822d64ce200344d"
+  },
+  "AirplaneID": "VJ006",
+  "AirplaneName": "Airbus A321 VJ006",
+  "AirportID": "HPH",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "637462bea822d64ce200344e"
+  },
+  "AirplaneID": "VJ007",
+  "AirplaneName": "Airbus A321 VJ007",
+  "AirportID": "SGN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "637462d1a822d64ce200344f"
+  },
+  "AirplaneID": "VJ008",
+  "AirplaneName": "Airbus A321 VJ008",
+  "AirportID": "HPH",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "637462e4a822d64ce2003450"
+  },
+  "AirplaneID": "VJ009",
+  "AirplaneName": "Airbus A321 VJ009",
+  "AirportID": "DLI",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "637462fda822d64ce2003451"
+  },
+  "AirplaneID": "VJ010",
+  "AirplaneName": "Airbus A321 VJ010",
+  "AirportID": "CXR",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746321a822d64ce2003453"
+  },
+  "AirplaneID": "VJ011",
+  "AirplaneName": "Airbus A321 VJ011",
+  "AirportID": "HUI",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746353a822d64ce2003455"
+  },
+  "AirplaneID": "VJ012",
+  "AirplaneName": "Airbus A321 VJ012",
+  "AirportID": "HAN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746368a822d64ce2003456"
+  },
+  "AirplaneID": "VJ013",
+  "AirplaneName": "Airbus A321 VJ013",
+  "AirportID": "HAN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "6374637aa822d64ce2003457"
+  },
+  "AirplaneID": "VJ014",
+  "AirplaneName": "Airbus A321 VJ014",
+  "AirportID": "SGN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746395a822d64ce2003458"
+  },
+  "AirplaneID": "VJ015",
+  "AirplaneName": "Airbus A321 VJ015",
+  "AirportID": "SGN",
+  "BrandName": "Vietjet Air"
+},{
+  "_id": {
+    "$oid": "63746498a822d64ce2003459"
+  },
+  "AirplaneID": "VTA002",
+  "AirplaneName": "Airbus A321 VTA002",
+  "AirportID": "SGN",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "637464c8a822d64ce200345a"
+  },
+  "AirplaneID": "VTA003",
+  "AirplaneName": "Airbus A321 VTA003",
+  "AirportID": "HAN",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "637464dda822d64ce200345b"
+  },
+  "AirplaneID": "VTA004",
+  "AirplaneName": "Airbus A321 VTA004",
+  "AirportID": "HAN",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "637464eba822d64ce200345c"
+  },
+  "AirplaneID": "VTA003",
+  "AirplaneName": "Airbus A321 VTA003",
+  "AirportID": "SGN",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "637464f8a822d64ce200345d"
+  },
+  "AirplaneID": "VTA006",
+  "AirplaneName": "Airbus A321 VTA006",
+  "AirportID": "DAD",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "63746515a822d64ce200345e"
+  },
+  "AirplaneID": "VTA007",
+  "AirplaneName": "Airbus A321 VTA007",
+  "AirportID": "DLI",
+  "BrandName": "Vietravel Airlines"
+},{
+  "_id": {
+    "$oid": "63746532a822d64ce200345f"
+  },
+  "AirplaneID": "BA002",
+  "AirplaneName": "Airbus A319 BA002",
+  "AirportID": "SGN",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "6374654ca822d64ce2003460"
+  },
+  "AirplaneID": "BA003",
+  "AirplaneName": "Airbus A319 BA003",
+  "AirportID": "HAN",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "63746562a822d64ce2003461"
+  },
+  "AirplaneID": "BA004",
+  "AirplaneName": "Airbus A319 BA004",
+  "AirportID": "HUI",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "63746577a822d64ce2003462"
+  },
+  "AirplaneID": "BA005",
+  "AirplaneName": "Airbus A319 BA005",
+  "AirportID": "CXR",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "637465a0a822d64ce2003464"
+  },
+  "AirplaneID": "BA006",
+  "AirplaneName": "Airbus A319 BA006",
+  "AirportID": "DLI",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "637465b2a822d64ce2003465"
+  },
+  "AirplaneID": "BA007",
+  "AirplaneName": "Airbus A319 BA007",
+  "AirportID": "UIH",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "637465d0a822d64ce2003466"
+  },
+  "AirplaneID": "BA008",
+  "AirplaneName": "Airbus A319 BA008",
+  "AirportID": "PQC",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "63746612a822d64ce2003467"
+  },
+  "AirplaneID": "BA009",
+  "AirplaneName": "Airbus A319 BA009",
+  "AirportID": "SGN",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "63746629a822d64ce2003468"
+  },
+  "AirplaneID": "BA010",
+  "AirplaneName": "Airbus A319 BA010",
+  "AirportID": "HAN",
+  "BrandName": "Bamboo Airways"
+},{
+  "_id": {
+    "$oid": "63746670a822d64ce2003469"
+  },
+  "AirplaneID": "VNA003",
+  "AirplaneName": "Airbus A321 NEO VNA003",
+  "AirportID": "SGN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374668ea822d64ce200346a"
+  },
+  "AirplaneID": "VNA004",
+  "AirplaneName": "Airbus A321 VNA004",
+  "AirportID": "SGN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374669ba822d64ce200346b"
+  },
+  "AirplaneID": "VNA006",
+  "AirplaneName": "Airbus A321 VNA006",
+  "AirportID": "SGN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637466a7a822d64ce200346c"
+  },
+  "AirplaneID": "VNA007",
+  "AirplaneName": "Airbus A321 VNA007",
+  "AirportID": "DAD",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637466b4a822d64ce200346d"
+  },
+  "AirplaneID": "VNA008",
+  "AirplaneName": "Airbus A321 NEO VNA008",
+  "AirportID": "DAD",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637466e7a822d64ce200346e"
+  },
+  "AirplaneID": "VNA009",
+  "AirplaneName": "Airbus A321 VNA009",
+  "AirportID": "HUI",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637466f6a822d64ce200346f"
+  },
+  "AirplaneID": "VNA010",
+  "AirplaneName": "Airbus A321 VNA010",
+  "AirportID": "HUI",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374671aa822d64ce2003471"
+  },
+  "AirplaneID": "VNA011",
+  "AirplaneName": "Airbus A321 VNA011",
+  "AirportID": "CXR",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374672aa822d64ce2003472"
+  },
+  "AirplaneID": "VNA012",
+  "AirplaneName": "Airbus A321 VNA012",
+  "AirportID": "CXR",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "63746739a822d64ce2003473"
+  },
+  "AirplaneID": "VNA013",
+  "AirplaneName": "Airbus A321 VNA013",
+  "AirportID": "PQC",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "63746762a822d64ce2003475"
+  },
+  "AirplaneID": "VNA014",
+  "AirplaneName": "Airbus A321 VNA014",
+  "AirportID": "PQC",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "63746783a822d64ce2003476"
+  },
+  "AirplaneID": "VNA015",
+  "AirplaneName": "Airbus A321 VNA015",
+  "AirportID": "DLI",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374678fa822d64ce2003477"
+  },
+  "AirplaneID": "VNA016",
+  "AirplaneName": "Airbus A321 VNA016",
+  "AirportID": "DLI",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "6374679fa822d64ce2003478"
+  },
+  "AirplaneID": "VNA017",
+  "AirplaneName": "Airbus A321 VNA017",
+  "AirportID": "DLI",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467afa822d64ce2003479"
+  },
+  "AirplaneID": "VNA018",
+  "AirplaneName": "Airbus A321 VNA018",
+  "AirportID": "HAN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467c0a822d64ce200347a"
+  },
+  "AirplaneID": "VNA019",
+  "AirplaneName": "Airbus A321 VNA019",
+  "AirportID": "HAN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467c9a822d64ce200347b"
+  },
+  "AirplaneID": "VNA020",
+  "AirplaneName": "Airbus A321 VNA020",
+  "AirportID": "HAN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467d4a822d64ce200347c"
+  },
+  "AirplaneID": "VNA021",
+  "AirplaneName": "Airbus A321 VNA021",
+  "AirportID": "HAN",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467dea822d64ce200347d"
+  },
+  "AirplaneID": "VNA022",
+  "AirplaneName": "Airbus A321 VNA022",
+  "AirportID": "HPH",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "637467f8a822d64ce200347e"
+  },
+  "AirplaneID": "VNA023",
+  "AirplaneName": "Airbus A321 VNA023",
+  "AirportID": "HPH",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "63746825a822d64ce200347f"
+  },
+  "AirplaneID": "VNA024",
+  "AirplaneName": "Airbus A321 VNA024",
+  "AirportID": "UIH",
+  "BrandName": "Vietnam Airlines"
+},{
+  "_id": {
+    "$oid": "63746836a822d64ce2003480"
+  },
+  "AirplaneID": "VNA025",
+  "AirplaneName": "Airbus A321 VNA025",
+  "AirportID": "VII",
   "BrandName": "Vietnam Airlines"
 }]

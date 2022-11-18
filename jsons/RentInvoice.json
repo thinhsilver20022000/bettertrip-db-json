@@ -5,11 +5,19 @@
   "RentInvoiceID": "RI000001",
   "CheckIn": {
     "CheckInDate": "16-11-2022",
-    "CheckInTime": "sa"
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669162200000"
+      }
+    }
   },
   "CheckOut": {
     "CheckInDate": "18-11-2022",
-    "CheckInTime": "sa"
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669248600000"
+      }
+    }
   }
 },{
   "_id": {
@@ -20,7 +28,7 @@
     "CheckInDate": "23-11-2022",
     "CheckInTime": {
       "$date": {
-        "$numberLong": "1669162230000"
+        "$numberLong": "1669162200000"
       }
     }
   },
@@ -28,7 +36,7 @@
     "CheckInDate": "24-11-2022",
     "CheckInTime": {
       "$date": {
-        "$numberLong": "1669248630000"
+        "$numberLong": "1669248600000"
       }
     }
   }
@@ -41,7 +49,7 @@
     "CheckInDate": "20-11-2022",
     "CheckInTime": {
       "$date": {
-        "$numberLong": "1668903150000"
+        "$numberLong": "1668903120000"
       }
     }
   },
@@ -49,7 +57,994 @@
     "CheckInDate": "12-12-2022",
     "CheckInTime": {
       "$date": {
-        "$numberLong": "1670803950000"
+        "$numberLong": "1670803920000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376657712cdd24d4f342a17"
+  },
+  "RentInvoiceID": "RI000004",
+  "CheckIn": {
+    "CheckInDate": "10-10-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1603152600000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "18-11-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1605658200000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637667a912cdd24d4f342a1c"
+  },
+  "RentInvoiceID": "RI000005",
+  "CheckIn": {
+    "CheckInDate": "01-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1667261430000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "03-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1667434230000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637667e912cdd24d4f342a1d"
+  },
+  "RentInvoiceID": "RI000001",
+  "CheckIn": {
+    "CheckInDate": "16-01-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1610755830000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "18-01-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1610928630000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376683312cdd24d4f342a1e"
+  },
+  "RentInvoiceID": "RI000007",
+  "CheckIn": {
+    "CheckInDate": "18-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660781430000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "19-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660867830000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637668a712cdd24d4f342a1f"
+  },
+  "RentInvoiceID": "RI000008",
+  "CheckIn": {
+    "CheckInDate": "20-03-2019",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1553040630000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "01-04-2019",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1554077430000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376691b12cdd24d4f342a20"
+  },
+  "RentInvoiceID": "RI000009",
+  "CheckIn": {
+    "CheckInDate": "20-02-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1645315860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "22-02-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1645488660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376697812cdd24d4f342a21"
+  },
+  "RentInvoiceID": "RI000010",
+  "CheckIn": {
+    "CheckInDate": "21-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1647821460000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "28-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1648426260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376f64a50943f16e7cf0834"
+  },
+  "RentInvoiceID": "RI000011",
+  "CheckIn": {
+    "CheckInDate": "22-12-2019",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1576973460000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "03-01-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1578010260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376fdbed9c0c055a8f7bbdc"
+  },
+  "RentInvoiceID": "RI000012",
+  "CheckIn": {
+    "CheckInDate": "18-01-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1610928960000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-02-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1612224960000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376fec9d9c0c055a8f7bbde"
+  },
+  "RentInvoiceID": "RI000013",
+  "CheckIn": {
+    "CheckInDate": "15-06-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1655251860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "01-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1656634260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6376ffcdd9c0c055a8f7bbdf"
+  },
+  "RentInvoiceID": "RI000014",
+  "CheckIn": {
+    "CheckInDate": "13-08-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1597277220000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "15-08-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1597450020000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770055d9c0c055a8f7bbe0"
+  },
+  "RentInvoiceID": "RI000015",
+  "CheckIn": {
+    "CheckInDate": "18-01-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1642464660000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-02-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1643760660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637700c8d9c0c055a8f7bbe1"
+  },
+  "RentInvoiceID": "RI000016",
+  "CheckIn": {
+    "CheckInDate": "20-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1668903060000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669939860000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637701d8d9c0c055a8f7bbe2"
+  },
+  "RentInvoiceID": "RI000017",
+  "CheckIn": {
+    "CheckInDate": "01-01-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1577837460000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-02-2020",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1580602260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377021fd9c0c055a8f7bbe3"
+  },
+  "RentInvoiceID": "RI000018",
+  "CheckIn": {
+    "CheckInDate": "02-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669939860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "13-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1670890260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770284d9c0c055a8f7bbe5"
+  },
+  "RentInvoiceID": "RI000019",
+  "CheckIn": {
+    "CheckInDate": "15-04-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1649981580000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "03-05-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1651536780000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637702bed9c0c055a8f7bbe6"
+  },
+  "RentInvoiceID": "RI000020",
+  "CheckIn": {
+    "CheckInDate": "31-01-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1643587860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "04-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1646352660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770333d9c0c055a8f7bbe7"
+  },
+  "RentInvoiceID": "RI000021",
+  "CheckIn": {
+    "CheckInDate": "24-10-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1635034920000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "28-10-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1635380520000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770401d9c0c055a8f7bbe8"
+  },
+  "RentInvoiceID": "RI000022",
+  "CheckIn": {
+    "CheckInDate": "01-06-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1654042200000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "03-06-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1654215000000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637704a9d9c0c055a8f7bbe9"
+  },
+  "RentInvoiceID": "RI000023",
+  "CheckIn": {
+    "CheckInDate": "20-11-2019",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1574208660000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-12-2019",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1575245460000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770560d9c0c055a8f7bbea"
+  },
+  "RentInvoiceID": "RI000024",
+  "CheckIn": {
+    "CheckInDate": "10-09-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1662768660000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "04-10-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1664842260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637705b5d9c0c055a8f7bbeb"
+  },
+  "RentInvoiceID": "RI000025",
+  "CheckIn": {
+    "CheckInDate": "02-01-2023",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1672618140000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "08-01-2023",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1673136540000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770659d9c0c055a8f7bbec"
+  },
+  "RentInvoiceID": "RI000026",
+  "CheckIn": {
+    "CheckInDate": "23-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671754620000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "07-01-2023",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1673050620000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637706ead9c0c055a8f7bbed"
+  },
+  "RentInvoiceID": "RI000027",
+  "CheckIn": {
+    "CheckInDate": "20-02-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1645315860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "27-02-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1645920660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63770734d9c0c055a8f7bbee"
+  },
+  "RentInvoiceID": "RI000028",
+  "CheckIn": {
+    "CheckInDate": "17-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671235860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "24-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671840660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377076bd9c0c055a8f7bbef"
+  },
+  "RentInvoiceID": "RI000029",
+  "CheckIn": {
+    "CheckInDate": "26-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1658794500000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "30-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1659140100000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637707c6d9c0c055a8f7bbf0"
+  },
+  "RentInvoiceID": "RI000030",
+  "CheckIn": {
+    "CheckInDate": "23-10-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1668903060000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669939860000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771076d9c0c055a8f7bbf1"
+  },
+  "RentInvoiceID": "RI000031",
+  "CheckIn": {
+    "CheckInDate": "14-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1657757460000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "17-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1658016660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771505d9c0c055a8f7bbf3"
+  },
+  "RentInvoiceID": "RI000032",
+  "CheckIn": {
+    "CheckInDate": "23-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671754620000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "31-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1672445820000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377154ed9c0c055a8f7bbf4"
+  },
+  "RentInvoiceID": "RI000033",
+  "CheckIn": {
+    "CheckInDate": "23-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669162620000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "14-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1670977020000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377157dd9c0c055a8f7bbf5"
+  },
+  "RentInvoiceID": "RI000034",
+  "CheckIn": {
+    "CheckInDate": "29-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1648512660000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "12-04-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1649722260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637715b5d9c0c055a8f7bbf6"
+  },
+  "RentInvoiceID": "RI000035",
+  "CheckIn": {
+    "CheckInDate": "03-01-2023",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1672704660000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "07-01-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1673050260000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637715f8d9c0c055a8f7bbf7"
+  },
+  "RentInvoiceID": "RI000036",
+  "CheckIn": {
+    "CheckInDate": "20-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660954680000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "31-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661905080000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377163fd9c0c055a8f7bbf8"
+  },
+  "RentInvoiceID": "RI000037",
+  "CheckIn": {
+    "CheckInDate": "23-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671754260000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "31-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1672445460000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771667d9c0c055a8f7bbf9"
+  },
+  "RentInvoiceID": "RI000038",
+  "CheckIn": {
+    "CheckInDate": "23-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1671754140000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "31-12-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1672445340000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771687d9c0c055a8f7bbfa"
+  },
+  "RentInvoiceID": "RI000039",
+  "CheckIn": {
+    "CheckInDate": "27-01-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1611706260000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "03-02-2021",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1612311060000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637716d7d9c0c055a8f7bbfb"
+  },
+  "RentInvoiceID": "RI000040",
+  "CheckIn": {
+    "CheckInDate": "17-05-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1652746260000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "02-06-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1654128660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771728d9c0c055a8f7bbfc"
+  },
+  "RentInvoiceID": "RI000041",
+  "CheckIn": {
+    "CheckInDate": "24-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661299860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "29-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661731860000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637717d7d9c0c055a8f7bbfe"
+  },
+  "RentInvoiceID": "RI000042",
+  "CheckIn": {
+    "CheckInDate": "11-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660177200000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "20-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660954800000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771811d9c0c055a8f7bbff"
+  },
+  "RentInvoiceID": "RI000043",
+  "CheckIn": {
+    "CheckInDate": "04-04-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1649031060000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "01-05-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1651363860000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771842d9c0c055a8f7bc00"
+  },
+  "RentInvoiceID": "RI000044",
+  "CheckIn": {
+    "CheckInDate": "19-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661299860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "29-07-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661731860000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637718a6d9c0c055a8f7bc05"
+  },
+  "RentInvoiceID": "RI000044",
+  "CheckIn": {
+    "CheckInDate": "24-09-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1663978200000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "29-09-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1664410200000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637718d9d9c0c055a8f7bc06"
+  },
+  "RentInvoiceID": "RI000046",
+  "CheckIn": {
+    "CheckInDate": "21-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1647821460000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "30-03-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1648599060000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63771917d9c0c055a8f7bc07"
+  },
+  "RentInvoiceID": "RI000047",
+  "CheckIn": {
+    "CheckInDate": "01-10-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1664582940000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "27-10-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1666829340000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377195dd9c0c055a8f7bc08"
+  },
+  "RentInvoiceID": "RI000048",
+  "CheckIn": {
+    "CheckInDate": "05-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1659658320000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "12-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1660263120000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6377199dd9c0c055a8f7bc09"
+  },
+  "RentInvoiceID": "RI000049",
+  "CheckIn": {
+    "CheckInDate": "23-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669162260000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "24-11-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1669248660000"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637719ddd9c0c055a8f7bc0a"
+  },
+  "RentInvoiceID": "RI000050",
+  "CheckIn": {
+    "CheckInDate": "24-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661299860000"
+      }
+    }
+  },
+  "CheckOut": {
+    "CheckInDate": "29-08-2022",
+    "CheckInTime": {
+      "$date": {
+        "$numberLong": "1661731860000"
       }
     }
   }

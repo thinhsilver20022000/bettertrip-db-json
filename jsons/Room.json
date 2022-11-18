@@ -17,14 +17,14 @@
     "$oid": "6373dd5e805f44c3eac597fe"
   },
   "RoomID": "8230989R0301",
-  "Price": 100,
+  "Price": 200,
   "Available": true
 },{
   "_id": {
     "$oid": "6373dd6e805f44c3eac597ff"
   },
   "RoomID": "8230989R0401",
-  "Price": 69,
+  "Price": 250,
   "Available": false
 },{
   "_id": {
@@ -32,5 +32,684 @@
   },
   "RoomID": "8230989R0601",
   "Price": 250,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776097661ea1689d82c7ec"
+  },
+  "RoomID": "8230989R0102",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637760aa661ea1689d82c7ed"
+  },
+  "RoomID": "8230989R0103",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637760b1661ea1689d82c7ee"
+  },
+  "RoomID": "8230989R0104",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637760bb661ea1689d82c7ef"
+  },
+  "RoomID": "8230989R0105",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637760ce661ea1689d82c7f0"
+  },
+  "RoomID": "8230989R0202",
+  "Price": 150,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637760ee661ea1689d82c7f1"
+  },
+  "RoomID": "8230989R0203",
+  "Price": 150,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637760f6661ea1689d82c7f2"
+  },
+  "RoomID": "8230989R0204",
+  "Price": 150,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776107661ea1689d82c7f3"
+  },
+  "RoomID": "8230989R0205",
+  "Price": 150,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776139661ea1689d82c7f4"
+  },
+  "RoomID": "8230989R0302",
+  "Price": 200,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776146661ea1689d82c7f5"
+  },
+  "RoomID": "8230989R0303",
+  "Price": 200,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776150661ea1689d82c7f6"
+  },
+  "RoomID": "8230989R0304",
+  "Price": 200,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776157661ea1689d82c7f7"
+  },
+  "RoomID": "8230989R0305",
+  "Price": 200,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377616a661ea1689d82c7f8"
+  },
+  "RoomID": "8230989R0402",
+  "Price": 250,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776173661ea1689d82c7f9"
+  },
+  "RoomID": "8230989R0403",
+  "Price": 250,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776181661ea1689d82c7fa"
+  },
+  "RoomID": "8230989R0404",
+  "Price": 250,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776189661ea1689d82c7fb"
+  },
+  "RoomID": "8230989R0405",
+  "Price": 250,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776199661ea1689d82c7fc"
+  },
+  "RoomID": "8236373R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637761e6661ea1689d82c7fd"
+  },
+  "RoomID": "8236373R0102",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637761ef661ea1689d82c7fe"
+  },
+  "RoomID": "8236373R0103",
+  "Price": 80,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776200661ea1689d82c7ff"
+  },
+  "RoomID": "8236373R0201",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377620e661ea1689d82c800"
+  },
+  "RoomID": "8236373R0202",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377621a661ea1689d82c801"
+  },
+  "RoomID": "8236373R0203",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776227661ea1689d82c802"
+  },
+  "RoomID": "8236373R0301",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776236661ea1689d82c803"
+  },
+  "RoomID": "8236373R0302",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776241661ea1689d82c804"
+  },
+  "RoomID": "8236373R0303",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776254661ea1689d82c805"
+  },
+  "RoomID": "8236377R0101",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776292661ea1689d82c807"
+  },
+  "RoomID": "8236377R0101",
+  "Price": 69,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637762a6661ea1689d82c808"
+  },
+  "RoomID": "8236377R0201",
+  "Price": 99,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637762ca661ea1689d82c809"
+  },
+  "RoomID": "8236377R0301",
+  "Price": 129,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637762da661ea1689d82c80a"
+  },
+  "RoomID": "8230978R0101",
+  "Price": 35,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776302661ea1689d82c80b"
+  },
+  "RoomID": "8230978R0201",
+  "Price": 45,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377630e661ea1689d82c80c"
+  },
+  "RoomID": "8230978R0301",
+  "Price": 55,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377631d661ea1689d82c80d"
+  },
+  "RoomID": "8230978R0401",
+  "Price": 65,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377632b661ea1689d82c80e"
+  },
+  "RoomID": "8230978R0501",
+  "Price": 75,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776356661ea1689d82c810"
+  },
+  "RoomID": "8230978R0601",
+  "Price": 85,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776374661ea1689d82c811"
+  },
+  "RoomID": "8126979R0101",
+  "Price": 60,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776398661ea1689d82c812"
+  },
+  "RoomID": "8126979R0102",
+  "Price": 60,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637763a4661ea1689d82c813"
+  },
+  "RoomID": "8126979R0103",
+  "Price": 60,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637763ad661ea1689d82c814"
+  },
+  "RoomID": "8126979R0201",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637763c0661ea1689d82c815"
+  },
+  "RoomID": "8126979R0201",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637763ce661ea1689d82c816"
+  },
+  "RoomID": "8126979R0201",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637763d8661ea1689d82c817"
+  },
+  "RoomID": "8240001R0101",
+  "Price": 75,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776400661ea1689d82c818"
+  },
+  "RoomID": "8240001R0201",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776424661ea1689d82c819"
+  },
+  "RoomID": "8240001R0301",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776435661ea1689d82c81a"
+  },
+  "RoomID": "8240002R0101",
+  "Price": 50,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776461661ea1689d82c81c"
+  },
+  "RoomID": "8240002R0201",
+  "Price": 50,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377646d661ea1689d82c81d"
+  },
+  "RoomID": "8240002R0301",
+  "Price": 75,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377647b661ea1689d82c81e"
+  },
+  "RoomID": "8240003R0101",
+  "Price": 40,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377648e661ea1689d82c81f"
+  },
+  "RoomID": "8240003R0201",
+  "Price": 50,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637764a3661ea1689d82c820"
+  },
+  "RoomID": "8240003R0301",
+  "Price": 60,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637764b5661ea1689d82c821"
+  },
+  "RoomID": "8240004R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637764c9661ea1689d82c822"
+  },
+  "RoomID": "8240004R0201",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637764d4661ea1689d82c823"
+  },
+  "RoomID": "8240004R0301",
+  "Price": 120,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637764e6661ea1689d82c824"
+  },
+  "RoomID": "8240005R0101",
+  "Price": 80,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776505661ea1689d82c825"
+  },
+  "RoomID": "8240005R0201",
+  "Price": 90,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776510661ea1689d82c826"
+  },
+  "RoomID": "8240005R0301",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776522661ea1689d82c827"
+  },
+  "RoomID": "8240005R0401",
+  "Price": 110,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377656a661ea1689d82c82c"
+  },
+  "RoomID": "8240006R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377657c661ea1689d82c82d"
+  },
+  "RoomID": "8240006R0201",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637765ad661ea1689d82c82e"
+  },
+  "RoomID": "8240007R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637765b7661ea1689d82c82f"
+  },
+  "RoomID": "8240007R0101",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637765c6661ea1689d82c830"
+  },
+  "RoomID": "8240008R0101",
+  "Price": 50,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637765cf661ea1689d82c831"
+  },
+  "RoomID": "8240008R0201",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637765eb661ea1689d82c833"
+  },
+  "RoomID": "8240021R0101",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776602661ea1689d82c834"
+  },
+  "RoomID": "8240021R0201",
+  "Price": 120,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377660f661ea1689d82c835"
+  },
+  "RoomID": "8240021R0301",
+  "Price": 150,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377661e661ea1689d82c836"
+  },
+  "RoomID": "8240022R0101",
+  "Price": 29,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377663a661ea1689d82c837"
+  },
+  "RoomID": "8240023R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776643661ea1689d82c838"
+  },
+  "RoomID": "8240024R0101",
+  "Price": 65,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776651661ea1689d82c839"
+  },
+  "RoomID": "8240025R0101",
+  "Price": 100,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377666f661ea1689d82c83a"
+  },
+  "RoomID": "8240026R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776676661ea1689d82c83b"
+  },
+  "RoomID": "8240027R0101",
+  "Price": 80,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776684661ea1689d82c83c"
+  },
+  "RoomID": "8240028R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776693661ea1689d82c841"
+  },
+  "RoomID": "8240029R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776699661ea1689d82c842"
+  },
+  "RoomID": "8240030R0101",
+  "Price": 30,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637766b3661ea1689d82c843"
+  },
+  "RoomID": "8240031R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637766be661ea1689d82c844"
+  },
+  "RoomID": "8240032R0101",
+  "Price": 130,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637766cb661ea1689d82c845"
+  },
+  "RoomID": "8240033R0101",
+  "Price": 99,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637766dd661ea1689d82c846"
+  },
+  "RoomID": "8240034R0101",
+  "Price": 140,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637766ea661ea1689d82c847"
+  },
+  "RoomID": "8240035R0101",
+  "Price": 60,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637766fa661ea1689d82c848"
+  },
+  "RoomID": "8240036R0101",
+  "Price": 109,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377670d661ea1689d82c849"
+  },
+  "RoomID": "8240037R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776717661ea1689d82c84a"
+  },
+  "RoomID": "8240038R0101",
+  "Price": 100,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377671e661ea1689d82c84b"
+  },
+  "RoomID": "8240039R0101",
+  "Price": 50,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776727661ea1689d82c84c"
+  },
+  "RoomID": "8240040R0101",
+  "Price": 50,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "63776737661ea1689d82c84d"
+  },
+  "RoomID": "8240041R0101",
+  "Price": 59,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377674a661ea1689d82c84e"
+  },
+  "RoomID": "8240042R0101",
+  "Price": 69,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776758661ea1689d82c84f"
+  },
+  "RoomID": "8240043R0101",
+  "Price": 79,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "63776765661ea1689d82c850"
+  },
+  "RoomID": "8240044R0101",
+  "Price": 59,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377676e661ea1689d82c851"
+  },
+  "RoomID": "8240045R0101",
+  "Price": 49,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377677e661ea1689d82c852"
+  },
+  "RoomID": "8240046R0101",
+  "Price": 39,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "6377678a661ea1689d82c853"
+  },
+  "RoomID": "8240047R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "6377679b661ea1689d82c854"
+  },
+  "RoomID": "8240048R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637767a3661ea1689d82c855"
+  },
+  "RoomID": "8240049R0101",
+  "Price": 90,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637767ae661ea1689d82c856"
+  },
+  "RoomID": "8240050R0101",
+  "Price": 80,
+  "Available": true
+},{
+  "_id": {
+    "$oid": "637767b9661ea1689d82c857"
+  },
+  "RoomID": "8240051R0101",
+  "Price": 89,
+  "Available": false
+},{
+  "_id": {
+    "$oid": "637767c7661ea1689d82c858"
+  },
+  "RoomID": "8240052R0101",
+  "Price": 35,
   "Available": true
 }]

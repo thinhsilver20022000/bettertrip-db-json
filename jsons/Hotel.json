@@ -83,4 +83,803 @@
     "evelator": true,
     "pickUp": true
   }
+},{
+  "_id": {
+    "$oid": "6375e7a975311bbe5cf49a26"
+  },
+  "HotelID": "8240001",
+  "HotelName": "Muong Thanh Hotel",
+  "Address": "261C Nguyen Van Troi, Ward 10, Phu Nhuan, Ho Chi Minh, phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+  "AreaID": "HCMC",
+  "Description": "There is no information for this hotel",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375e8d675311bbe5cf49a27"
+  },
+  "HotelID": "8240002",
+  "HotelName": "Cozrum Lux Hotel",
+  "Address": "19C Bùi Thị Xuân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+  "AreaID": "HCMC",
+  "Description": "There is no information for this hotel",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": false,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375e92975311bbe5cf49a29"
+  },
+  "HotelID": "8240003",
+  "HotelName": "VISSAI Hotel",
+  "Address": "144 NGUYEN VAN TROI",
+  "AreaID": "HCMC",
+  "Description": "There is no information for this hotel",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375ea2475311bbe5cf49a2a"
+  },
+  "HotelID": "8240004",
+  "HotelName": "Hotel Continental Saigon",
+  "Address": "132 - 134 Đồng Khởi, Phường Bến Nghé, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+  "AreaID": "HCMC",
+  "Description": "For those travellers on the go or business visitors our Superior Rooms offers the perfect haven. They have restricted or no views yet offer a quiet and private refuge and access to all the facilities, including breakfast in the frangipani courtyard, that our historic hotel has to offer.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375eab275311bbe5cf49a2b"
+  },
+  "HotelID": "8240005",
+  "HotelName": "Happy Land Hotel",
+  "Address": "102-104 Lý  Tự Trọng, Phường Bến Thành, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+  "AreaID": "HCMC",
+  "Description": "No Information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375eb3d75311bbe5cf49a2c"
+  },
+  "HotelID": "8240006",
+  "HotelName": "ACE Hotel Saigon",
+  "Address": "139H Nguyễn Trãi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, 71109m",
+  "AreaID": "HCMC",
+  "Description": "No Information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": false,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6375eba975311bbe5cf49a2d"
+  },
+  "HotelID": "8240007",
+  "HotelName": "La Vela Saigon Hotel",
+  "Address": "280 đường Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam, 70000m",
+  "AreaID": "HCMC",
+  "Description": "Hotel is under ‘Soft Opening’ Stage with the official opening scheduled for later this year. You may thus experience some inconvenience during your stay, not really the hotel standards, but please be assured that this is a very temporary situation and every effort are being made to rectify the same at the earliest.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375eca275311bbe5cf49a2e"
+  },
+  "HotelID": "8240008",
+  "HotelName": "Spring House Hotel",
+  "Address": "221 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, 711296",
+  "AreaID": "HCMC",
+  "Description": "NO information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375ed2a75311bbe5cf49a30"
+  },
+  "HotelID": "8240009",
+  "HotelName": "The Reverie Saigon",
+  "Address": "22 - 36 Nguyễn Huệ, Phường Bến Nghé, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, 700000",
+  "AreaID": "HCMC",
+  "Description": "With high ceilings and large windows, experience the spacious Deluxe Twin Rooms offering from 43 square meters (463 square feet) of beautifully-appointed accommodations. Rooms feature a King Bed or two Double beds, luxury Chopard spa amenities, and city or river view.  ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375ed7f75311bbe5cf49a31"
+  },
+  "HotelID": "8240010",
+  "HotelName": "Lotte Hotel Saigon ",
+  "Address": "2A - 4A Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, 700000",
+  "AreaID": "HCMC",
+  "Description": "No information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375eddd75311bbe5cf49a32"
+  },
+  "HotelID": "8240011",
+  "HotelName": "Hotel Nikko Saigon",
+  "Address": "235 Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, 700000",
+  "AreaID": "HCMC",
+  "Description": "Located from the 10th to 20th floor, measures 40 square meters, spacious with minimalist design. Creates the ideal accommodation experience for both business and leisure travelers. A choice between King or Twin bed providing a restful night for every stay.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6375ee7175311bbe5cf49a34"
+  },
+  "HotelID": "8240017",
+  "HotelName": "Raon Danang Beach Hotel",
+  "Address": "5-7 An Thượng 32, Mỹ An, Ngũ Hành Sơn, Đà Nẵng, Việt Nam, 556994",
+  "AreaID": "DNC",
+  "Description": "Rooms are equipped with full facilities: mineral water, free tea, coffee, cable TV, free Wi-Fi, IDD telephone, air conditioning, wardrobe, mini bar, hairdryer, electric kettle, Shower hook, hanging hook, bath towel, restroom with standing bathtub, free toiletries in bathroom, child safety door.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375eedc75311bbe5cf49a35"
+  },
+  "HotelID": "8240018",
+  "HotelName": "Menora Grand Da Nang",
+  "Address": "69-71-73 Đỗ Bí, Bắc Mỹ Phú, Sơn Trà, Đà Nẵng, Mỹ An, Ngũ Hành Sơn, Đà Nẵng, Việt Nam, 550000",
+  "AreaID": "DNC",
+  "Description": "Rooms are equipped with full facilities: mineral water, free tea, coffee, cable TV, free Wi-Fi, IDD telephone, air conditioning, wardrobe, mini bar, hairdryer, electric kettle, Shower hook, hanging hook, bath towel, restroom with standing bathtub, free toiletries in bathroom, child safety door.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375ef1975311bbe5cf49a36"
+  },
+  "HotelID": "8240019",
+  "HotelName": "Le House Boutique Hotel",
+  "Address": "85-87 Hà Bổng, Phước Mỹ, Sơn Trà, Đà Nẵng, Việt Nam, 553384",
+  "AreaID": "DNC",
+  "Description": "Welcome drink, herbal foot soaking/hot salted Hymalayan pillow, bicycle service included ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375ef6a75311bbe5cf49a37"
+  },
+  "HotelID": "8240020",
+  "HotelName": "Mikazuki JAPANESE RESORTS",
+  "Address": "Đường Nguyễn Tất Thành,Phường Hòa Hiệp Nam, Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng, Việt Nam, 550000",
+  "AreaID": "DNC",
+  "Description": "no information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6375f04575311bbe5cf49a3a"
+  },
+  "HotelID": "8240021",
+  "HotelName": "TMS Hotel Da Nang Beach",
+  "Address": "292 Đường Võ Nguyên Giáp, Mỹ An, Ngũ Hành Sơn, Đà Nẵng, Việt Nam, 550000",
+  "AreaID": "DNC",
+  "Description": "no information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6375f07875311bbe5cf49a3b"
+  },
+  "HotelID": "8240022",
+  "HotelName": "Phuong Tran Apartment and Hotel",
+  "Address": "29 Ngô Gia Tự, Quận Hải Châu, Đà Nẵng, Việt Nam, 550000",
+  "AreaID": "DNC",
+  "Description": "no information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6375f0bf75311bbe5cf49a3c"
+  },
+  "HotelID": "8240023",
+  "HotelName": "Prana Boutique Hotel and Apartments",
+  "Address": "11 Khuê Mỹ Đông 2, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng, Việt Nam, 550000",
+  "AreaID": "DNC",
+  "Description": "King Suit is a perfect choice with spacious room and every detail meticulously design to give you a perfect living space.                                                             Featuring with spacious space, superking size bed, bathtub and kitchenette. ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6375f10575311bbe5cf49a3d"
+  },
+  "HotelID": "8240024",
+  "HotelName": "Hadana Boutique Hotel Da Nang",
+  "Address": "Lô H1 - 04, H1- 05, H1- 06 Phạm Văn Đồng, An Hải Bắc, Sơn Trà, Đà Nẵng, Việt Nam",
+  "AreaID": "DNC",
+  "Description": "No information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "637622f012cdd24d4f342992"
+  },
+  "HotelID": "8240025",
+  "HotelName": "Sunshine Hanoi Hotel",
+  "Address": "18 Hàng Hòm, Hàng Gai, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 100000",
+  "AreaID": "HNC",
+  "Description": "No information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376236c12cdd24d4f342993"
+  },
+  "HotelID": "8240026",
+  "HotelName": "Classy Boutique Hotel",
+  "Address": "21 Hàng Cá, Hàng Đào, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 1011130",
+  "AreaID": "HNC",
+  "Description": "No information",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "637623ae12cdd24d4f342994"
+  },
+  "HotelID": "8240027",
+  "HotelName": "Hanoi Grand Maison Hotel",
+  "Address": "108 Hàng Bông, Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 1035430",
+  "AreaID": "HNC",
+  "Description": "Please note that your children might be charged when check-in at the hotel. Please call the hotel before your check-in date for further information. ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376240a12cdd24d4f342995"
+  },
+  "HotelID": "8240028",
+  "HotelName": "Dolce by Wyndham Hanoi Golden Lake",
+  "Address": "B7 Giảng Võ, Giảng Võ, Quận Ba Đình, Hà Nội, Việt Nam, 100000",
+  "AreaID": "HNC",
+  "Description": "Our Golden Classic room features one king bed boasts top mattresses. Well-equipped with imperial style facilities and golden touch appliances, a comfortable work area, an in room mini bar, a coffe maker, sofa bed, flat HDTV, a large glamorous bathroom with separate bathtub and shower. Complimentary high-speed wireless Internet. ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376246112cdd24d4f342996"
+  },
+  "HotelID": "8240029",
+  "HotelName": "The Oriental Jade Hotel",
+  "Address": "92 - 94 Hàng Trống, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 1000000",
+  "AreaID": "HNC",
+  "Description": "A luxury hotel",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "637624c912cdd24d4f342997"
+  },
+  "HotelID": "8240030",
+  "HotelName": "Ma Coeur Boutique Hotel",
+  "Address": "40 Lò Sũ, Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 11000900",
+  "AreaID": "HNC",
+  "Description": "Ma Coeur Boutique Hotel là một khách sạn nằm trong khu vực an ninh, toạ lạc tại Lý Thái Tổ.khách sạn nằm cách Hanoi Train Street 1,14 km.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376254812cdd24d4f342999"
+  },
+  "HotelID": "8240031",
+  "HotelName": "22land Residence Hotel 71 Hang Bong",
+  "Address": "Số 71 Hàng Bông, Hoàn Kiếm, Hàng Bông, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 1100000",
+  "AreaID": "HNC",
+  "Description": "No infor",
+  "AccompaniedService": {
+    "wifi": false,
+    "pool": false,
+    "parking": true,
+    "restaurant": false,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "637625c512cdd24d4f34299a"
+  },
+  "HotelID": "8240032",
+  "HotelName": "Grand Plaza Hanoi Hotel",
+  "Address": "117 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội, Việt Nam, 1000000",
+  "AreaID": "HNC",
+  "Description": "Lưu trú tại Grand Plaza Hanoi Hotel là một lựa chọn đúng đắn khi quý khách đến thăm Phường Trung Hòa.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376261312cdd24d4f34299b"
+  },
+  "HotelID": "8240033",
+  "HotelName": "Melia Vinpearl Hue",
+  "Address": "50A Hùng Vương, Phú Nhuận, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam, 490000",
+  "AreaID": "HC",
+  "Description": "Lưu trú tại Melia Vinpearl Hue là một lựa chọn đúng đắn khi quý khách đến thăm Phú Nhuận.khách sạn sở hữu vị trí đắc địa cách sân bay Sân bay quốc tế Phú Bài (HUI) 13,46 km.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376269012cdd24d4f34299c"
+  },
+  "HotelID": "8240034",
+  "HotelName": "White Lotus Hotel",
+  "Address": "05-07 Hoàng Hoa Thám, Phú Nhuận, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam, 530000",
+  "AreaID": "HC",
+  "Description": "No infor",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "6376278e12cdd24d4f34299e"
+  },
+  "HotelID": "8240035",
+  "HotelName": "Asia Hotel Hue",
+  "Address": "17 Phạm Ngũ lão, Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam, 530000",
+  "AreaID": "HC",
+  "Description": "Hãy sẵn sàng đón nhận trải nghiệm khó quên bằng dịch vụ độc đáo và hoàn hảo của khách sạn cùng các tiện nghi đầy đủ, đáp ứng mọi nhu cầu của quý khách.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "637627d712cdd24d4f34299f"
+  },
+  "HotelID": "8240036",
+  "HotelName": "Muong Thanh Holiday Hue Hotel",
+  "Address": "38 Lê Lợi, Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam",
+  "AreaID": "HC",
+  "Description": "Extra charge for children: Extrabed is subject to availability ",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6376282312cdd24d4f3429a0"
+  },
+  "HotelID": "8240037",
+  "HotelName": "Spatel d'Annam Hotel - Imperial Boutique Spa & Hotel",
+  "Address": "57 Dang Dung, Thuận Thành, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam, 52000",
+  "AreaID": "HC",
+  "Description": "Khi lưu trú tại khách sạn thì nội thất và kiến trúc hẳn là hai yếu tố quan trọng khiến quý khách mãn nhãn. Với thiết kế độc đáo, Spatel d'Annam Hotel - Imperial Boutique Spa & Hotel mang đến không gian lưu trú làm hài lòng quý khách.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6376289712cdd24d4f3429a2"
+  },
+  "HotelID": "8240038",
+  "HotelName": "Moonlight Hotel Hue",
+  "Address": "20 Phạm Ngũ Lão, Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam",
+  "AreaID": "HC",
+  "Description": "Moonlight Hotel Hue là lựa chọn sáng giá dành cho những ai đang tìm kiếm một trải nghiệm xa hoa đầy thú vị trong kỳ nghỉ của mình. Lưu trú tại đây cũng là cách để quý khách chiều chuộng bản thân với những dịch vụ xuất sắc nhất và khiến kỳ nghỉ của mình trở nên thật đáng nhớ.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6376290712cdd24d4f3429a3"
+  },
+  "HotelID": "8240039",
+  "HotelName": "Midtown Hotel Hue",
+  "Address": "29 Đội Cung, Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam, 530000",
+  "AreaID": "HC",
+  "Description": "Hãy sẵn sàng đón nhận trải nghiệm khó quên bằng dịch vụ độc đáo và hoàn hảo của khách sạn cùng các tiện nghi đầy đủ, đáp ứng mọi nhu cầu của quý khách.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "6376297b12cdd24d4f3429a4"
+  },
+  "HotelID": "8240040",
+  "HotelName": "Holi Panorama Nha Trang",
+  "Address": "Panorama Building, 02 Nguyễn Thị Minh Khai, Lộc Thọ, Nha Trang, Khánh Hòa, Việt Nam, 650000",
+  "AreaID": "NTC",
+  "Description": "Không chỉ sở hữu vị trí giúp quý khách dễ dàng ghé thăm những địa điểm lý thú trong chuyến hành trình, Holi Panorama Nha Trang cũng sẽ mang đến cho quý khách trải nghiệm lưu trú mỹ mãn.Khách sạn này là lựa chọn hoàn hảo cho các kỳ nghỉ mát lãng mạn hay tuần trăng mật của các cặp đôi. Quý khách hãy tận hưởng những đêm đáng nhớ nhất cùng người thương của mình tại Holi Panorama Nha Trang",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "637629dd12cdd24d4f3429a5"
+  },
+  "HotelID": "8240041",
+  "HotelName": "La Vague Hotel Nha Trang",
+  "Address": "08 Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Việt Nam, 650000",
+  "AreaID": "NTC",
+  "Description": "Không chỉ sở hữu vị trí giúp quý khách dễ dàng ghé thăm những địa điểm lý thú trong chuyến hành trình, La Vague Hotel Nha Trang cũng sẽ mang đến cho quý khách trải nghiệm lưu trú mỹ mãn.Dù quý khách muốn tổ chức một sự kiện hay các dịp kỷ niệm đặc biệt khác, La Vague Hotel Nha Trang là lựa chọn tuyệt vời cho quý khách với phòng chức năng rộng lớn, được trang bị đầy đủ để sẵn sàng đáp ứng mọi yêu cầu.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "63762a4212cdd24d4f3429a7"
+  },
+  "HotelID": "8240042",
+  "HotelName": "An Lam Retreats Ninh Van Bay",
+  "Address": "Hòn Heo, Vịnh Ninh Vân, Nha Trang, Ninh Hòa, Khánh Hòa, Việt Nam, 750000",
+  "AreaID": "NTC",
+  "Description": "An Lam Retreats Ninh Van Bay là lựa chọn sáng giá dành cho những ai đang tìm kiếm một trải nghiệm xa hoa đầy thú vị trong kỳ nghỉ của mình. Lưu trú tại đây cũng là cách để quý khách chiều chuộng bản thân với những dịch vụ xuất sắc nhất và khiến kỳ nghỉ của mình trở nên thật đáng nhớ.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762a9c12cdd24d4f3429a8"
+  },
+  "HotelID": "8240043",
+  "HotelName": "Handy Panorama Nha Trang Ocean View",
+  "Address": "2 Nguyễn Thị Minh Khai, Lộc Thọ, Nha Trang, Khánh Hòa, Việt Nam, 650000",
+  "AreaID": "NTC",
+  "Description": "Nếu dự định có một kỳ nghỉ dài, thì Handy Panorama Nha Trang Ocean View chính là lựa chọn dành cho quý khách. Với đầy đủ tiện nghi với chất lượng dịch vụ tuyệt vời, Handy Panorama Nha Trang Ocean View sẽ khiến quý khách cảm thấy thoải mái như đang ở nhà vậy.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762af212cdd24d4f3429a9"
+  },
+  "HotelID": "8240044",
+  "HotelName": "Comodo Hotel Nha Trang",
+  "Address": "86A Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa, Việt Nam, 650000",
+  "AreaID": "NTC",
+  "Description": "Nếu dự định có một kỳ nghỉ dài, thì Handy Panorama Nha Trang Ocean View chính là lựa chọn dành cho quý khách. Với đầy đủ tiện nghi với chất lượng dịch vụ tuyệt vời, Handy Panorama Nha Trang Ocean View sẽ khiến quý khách cảm thấy thoải mái như đang ở nhà vậy.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762bdf12cdd24d4f3429ab"
+  },
+  "HotelID": "8240045",
+  "HotelName": "Terracotta Hotel & Resort Dalat",
+  "Address": "Phân khu chức năng 7.9, KDL hồ Tuyền Lâm, Phường 3, Đà Lạt, Tỉnh Lâm Đồng, Việt Nam, 670000",
+  "AreaID": "DLC",
+  "Description": "Terracotta Hotel & Resort Dalat là lựa chọn sáng giá dành cho những ai đang tìm kiếm một trải nghiệm xa hoa đầy thú vị trong kỳ nghỉ của mình. Lưu trú tại đây cũng là cách để quý khách chiều chuộng bản thân với những dịch vụ xuất sắc nhất và khiến kỳ nghỉ của mình trở nên thật đáng nhớ.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762c2f12cdd24d4f3429ac"
+  },
+  "HotelID": "8240046",
+  "HotelName": "Marigold Hotel Dalat",
+  "Address": "83 Bui Thi Xuan, Phường 2, Đà Lạt, Tỉnh Lâm Đồng, Việt Nam, 670000",
+  "AreaID": "DLC",
+  "Description": "Marigold hotel là lựa chọn sáng giá dành cho những ai đang tìm kiếm một trải nghiệm xa hoa đầy thú vị trong kỳ nghỉ của mình. Lưu trú tại đây cũng là cách để quý khách chiều chuộng bản thân với những dịch vụ xuất sắc nhất và khiến kỳ nghỉ của mình trở nên thật đáng nhớ.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762c9c12cdd24d4f3429ae"
+  },
+  "HotelID": "8240047",
+  "HotelName": "Le Recit Boutique Hotel de Dalat",
+  "Address": "117 Bùi Thị Xuân, Phường 2, Phường 2, Đà Lạt, Tỉnh Lâm Đồng, Việt Nam, 670000",
+  "AreaID": "DLC",
+  "Description": "Le Recit Boutique Hotel de Dalat là một khách sạn nằm trong khu vực an ninh, toạ lạc tại Phường 2 khách sạn nằm cách Ga Đà Lạt 1,81 km",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": false,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762cfe12cdd24d4f3429af"
+  },
+  "HotelID": "8240048",
+  "HotelName": "Ky Hoa Da Lat Hotel",
+  "Address": "211-213-215-217 Đường Phù Đổng Thiên Vương, Phường 8, Phường 8, Đà Lạt, Tỉnh Lâm Đồng, Việt Nam, 670000",
+  "AreaID": "DLC",
+  "Description": "An advantage location may be seen in several views around Da Lat city, Ky Hoa Hotel Da Lat will bring you many relaxation sites essential to your working days. About 03 kilometers away from a distance to the city centre is this 03 star hotel plays an advantage position facilitated to reach most famous touring areas of the city such as Mong Mo Hill, Dalat XQ (Hand Embroidery pictures), Love Valley, Tuyen Lam Lake.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762da412cdd24d4f3429b0"
+  },
+  "HotelID": "8240049",
+  "HotelName": "Hotel Nikko Hai Phong",
+  "Address": "Số 1 đường số 1- khu đô thị ven sông Lạch Tray,  Vĩnh Niệm, Lê Chân, Vĩnh Niệm, Quận Lê Chân, Thành phố Hải Phòng, Việt Nam, 180000",
+  "AreaID": "HPC",
+  "Description": "Hotel Nikko Hai Phong là đề xuất hàng đầu dành cho những tín đồ du lịch bụi mong muốn được nghỉ tại một khách sạn vừa thoải mái lại hợp túi tiền.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762e8e12cdd24d4f3429b9"
+  },
+  "HotelID": "8240050",
+  "HotelName": "The Secret Ha Long Hotel",
+  "Address": "No. E664 Shophouse Europe Ha Long - Sun Plaza Grand World, Ha Long Street, Bai Chay Ward, Ha Long, Quang Ninh, phường Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam, 01100",
+  "AreaID": "HLC",
+  "Description": "Không chỉ sở hữu vị trí giúp quý khách dễ dàng ghé thăm những địa điểm lý thú trong chuyến hành trình, The Secret Ha Long Hotel cũng sẽ mang đến cho quý khách trải nghiệm lưu trú mỹ mãn. Khi lưu trú tại khách sạn thì nội thất và kiến trúc hẳn là hai yếu tố quan trọng khiến quý khách mãn nhãn. Với thiết kế độc đáo, The Secret Ha Long Hotel mang đến không gian lưu trú làm hài lòng quý khách. Hãy tận hưởng thời gian vui vẻ cùng cả gia đình với hàng loạt tiện nghi giải trí tại The Secret Ha Long Hotel, một khách sạn tuyệt vời phù hợp cho mọi kỳ nghỉ bên người thân.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": true
+  }
+},{
+  "_id": {
+    "$oid": "63762f1e12cdd24d4f3429ba"
+  },
+  "HotelID": "8240051",
+  "HotelName": "D'Lecia Hotel Ha Long",
+  "Address": "38 Tấn Mài, Đông Hùng Thắng, Cái Dăm, Bãi Cháy, phường Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam, 430000",
+  "AreaID": "HLC",
+  "Description": "D'Lecia Hotel Ha Long là một khách sạn nằm trong khu vực an ninh, toạ lạc tại phường Bãi Cháy.khách sạn nằm cách Bến du thuyền Vịnh Hạ Long 6,29 km.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
+},{
+  "_id": {
+    "$oid": "63762f8d12cdd24d4f3429bb"
+  },
+  "HotelID": "8240052",
+  "HotelName": "Wyndham Legend Halong Hotel",
+  "Address": "Số 12 Đường Hạ Long, Phường Bãi Cháy, phường Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam, 200000",
+  "AreaID": "HLC",
+  "Description": "Lưu trú tại Wyndham Legend Halong Hotel là một lựa chọn đúng đắn khi quý khách đến thăm phường Bãi Cháy.",
+  "AccompaniedService": {
+    "wifi": true,
+    "pool": true,
+    "parking": true,
+    "restaurant": true,
+    "evelator": true,
+    "pickUp": false
+  }
 }]

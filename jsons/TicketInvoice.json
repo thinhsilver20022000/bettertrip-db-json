@@ -3,5 +3,119 @@
     "$oid": "6373dc1a805f44c3eac597ea"
   },
   "TicketInvoiceID": "TI00001",
-  "TotalPrice": 0
+  "TotalPrice": 200
+},{
+  "_id": {
+    "$oid": "637723fbd9c0c055a8f7bca2"
+  },
+  "TicketInvoiceID": "TI00002",
+  "TotalPrice": 100
+},{
+  "_id": {
+    "$oid": "63772458d9c0c055a8f7bcab"
+  },
+  "TicketInvoiceID": "TI00003",
+  "TotalPrice": 300
+},{
+  "_id": {
+    "$oid": "63772468d9c0c055a8f7bcac"
+  },
+  "TicketInvoiceID": "TI00004",
+  "TotalPrice": 400
+},{
+  "_id": {
+    "$oid": "63772474d9c0c055a8f7bcad"
+  },
+  "TicketInvoiceID": "TI00005",
+  "TotalPrice": 500
+},{
+  "_id": {
+    "$oid": "63772480d9c0c055a8f7bcae"
+  },
+  "TicketInvoiceID": "TI00006",
+  "TotalPrice": 600
+},{
+  "_id": {
+    "$oid": "63772498d9c0c055a8f7bcb3"
+  },
+  "TicketInvoiceID": "TI00007",
+  "TotalPrice": 700
+},{
+  "_id": {
+    "$oid": "637724a1d9c0c055a8f7bcb4"
+  },
+  "TicketInvoiceID": "TI00008",
+  "TotalPrice": 800
+},{
+  "_id": {
+    "$oid": "637724a9d9c0c055a8f7bcb5"
+  },
+  "TicketInvoiceID": "TI00009",
+  "TotalPrice": 900
+},{
+  "_id": {
+    "$oid": "637724b3d9c0c055a8f7bcb6"
+  },
+  "TicketInvoiceID": "TI000010",
+  "TotalPrice": 1000
+},{
+  "_id": {
+    "$oid": "637724c5d9c0c055a8f7bcb7"
+  },
+  "TicketInvoiceID": "TI00011",
+  "TotalPrice": 400
+},{
+  "_id": {
+    "$oid": "637724d5d9c0c055a8f7bcb8"
+  },
+  "TicketInvoiceID": "TI00012",
+  "TotalPrice": 100
+},{
+  "_id": {
+    "$oid": "637724f7d9c0c055a8f7bcb9"
+  },
+  "TicketInvoiceID": "TI00013",
+  "TotalPrice": 300
+},{
+  "_id": {
+    "$oid": "63772509d9c0c055a8f7bcba"
+  },
+  "TicketInvoiceID": "TI00014",
+  "TotalPrice": 1400
+},{
+  "_id": {
+    "$oid": "63772519d9c0c055a8f7bcbb"
+  },
+  "TicketInvoiceID": "TI00015",
+  "TotalPrice": 700
+},{
+  "_id": {
+    "$oid": "637725ecd9c0c055a8f7bcbc"
+  },
+  "TicketInvoiceID": "TI00016",
+  "TotalPrice": 400
+},{
+  "_id": {
+    "$oid": "637725ffd9c0c055a8f7bcbd"
+  },
+  "TicketInvoiceID": "TI00017",
+  "TotalPrice": 300
+},{
+  "_id": {
+    "$oid": "63772616d9c0c055a8f7bcbe"
+  },
+  "TicketInvoiceID": "TI00018",
+  "TotalPrice": 800
+},{
+  "_id": {
+    "$oid": "63772623d9c0c055a8f7bcbf"
+  },
+  "TicketInvoiceID": "TI00019",
+  "TotalPrice": 700
+},{
+  "_id": {
+    "$oid": "6377262cd9c0c055a8f7bcc0"
+  },
+  "TicketInvoiceID": "TI00020",
+  "TotalPrice": 600
 }]

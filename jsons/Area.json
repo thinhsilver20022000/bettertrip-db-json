@@ -58,4 +58,88 @@
   },
   "AreaID": "VC",
   "AreaName": "Vinh city"
+},{
+  "_id": {
+    "$oid": "63746892a822d64ce2003486"
+  },
+  "AreaID": "VTC",
+  "AreaName": "Ba Ria city"
+},{
+  "_id": {
+    "$oid": "63746938a822d64ce200348c"
+  },
+  "AreaID": "BLC",
+  "AreaName": "Bao Loc city"
+},{
+  "_id": {
+    "$oid": "63746963a822d64ce200348d"
+  },
+  "AreaID": "CRC",
+  "AreaName": "Cam Ranh city"
+},{
+  "_id": {
+    "$oid": "63746979a822d64ce200348e"
+  },
+  "AreaID": "CDC",
+  "AreaName": "Chau Doc city"
+},{
+  "_id": {
+    "$oid": "63746996a822d64ce200348f"
+  },
+  "AreaID": "HLC",
+  "AreaName": "Ha Long city"
+},{
+  "_id": {
+    "$oid": "637469a9a822d64ce2003490"
+  },
+  "AreaID": "HAC",
+  "AreaName": "Hoi An city"
+},{
+  "_id": {
+    "$oid": "637469c4a822d64ce2003491"
+  },
+  "AreaID": "MTC",
+  "AreaName": "My Tho city"
+},{
+  "_id": {
+    "$oid": "637469dba822d64ce2003492"
+  },
+  "AreaID": "PTC",
+  "AreaName": "Phan Thiet city"
+},{
+  "_id": {
+    "$oid": "637469f5a822d64ce2003493"
+  },
+  "AreaID": "QNGC",
+  "AreaName": "Quang Ngai city"
+},{
+  "_id": {
+    "$oid": "63746a08a822d64ce2003494"
+  },
+  "AreaID": "QNC",
+  "AreaName": "Quang Nam city"
+},{
+  "_id": {
+    "$oid": "63746a2fa822d64ce2003496"
+  },
+  "AreaID": "SSC",
+  "AreaName": "Sam Son city"
+},{
+  "_id": {
+    "$oid": "63746a48a822d64ce2003497"
+  },
+  "AreaID": "THC",
+  "AreaName": "Thanh Hoa city"
+},{
+  "_id": {
+    "$oid": "63746a61a822d64ce2003498"
+  },
+  "AreaID": "VLC",
+  "AreaName": "Vinh Long city"
+},{
+  "_id": {
+    "$oid": "63746aaea822d64ce2003499"
+  },
+  "AreaID": "YBC",
+  "AreaName": "Yen Bai city"
 }]

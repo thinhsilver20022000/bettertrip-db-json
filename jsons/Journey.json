@@ -5,8 +5,16 @@
   "JourneyID": "JN000001",
   "JourneyName": "My Journey",
   "Date": {
-    "start": "ad",
-    "end": "das"
+    "start": {
+      "$date": {
+        "$numberLong": "1618704630000"
+      }
+    },
+    "end": {
+      "$date": {
+        "$numberLong": "1619482230000"
+      }
+    }
   }
 },{
   "_id": {

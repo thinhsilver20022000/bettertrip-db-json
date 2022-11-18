@@ -29,9 +29,9 @@
   "_id": {
     "$oid": "63719501381e1d7c73a4c6c7"
   },
-  "CustomerName": "Magnus Carsen",
+  "CustomerName": "Magnus Carlsen",
   "SSN": "88040402",
-  "Email": "magnuscarsen@gmail.com",
+  "Email": "magnuscarlsen@gmail.com",
   "DOB": "30-11-1990",
   "Address": "District 1, Ho Chi Minh city"
 },{
@@ -42,5 +42,95 @@
   "SSN": "41840402",
   "Email": "nguyenthithap@gmail.com",
   "DOB": "01-02-1998",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "63747519a822d64ce20034c9"
+  },
+  "CustomerName": "Truong Kha Tu",
+  "SSN": "18050492",
+  "Email": "truongkhatu@gmail.com",
+  "DOB": "25-04-1996",
+  "Address": "My Tho, Tien Giang"
+},{
+  "_id": {
+    "$oid": "63747560a822d64ce20034ca"
+  },
+  "CustomerName": "Ho Vinh Nghiem",
+  "SSN": "18050403",
+  "Email": "hovinhnghiem@gmail.com",
+  "DOB": "23-03-2000",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "6374759ea822d64ce20034cb"
+  },
+  "CustomerName": "Bui Cong Danh",
+  "SSN": "18050404",
+  "Email": "buicongdanh@gmail.com",
+  "DOB": "27-08-1999",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "637475f8a822d64ce20034cc"
+  },
+  "CustomerName": "Vo Thai Phuc",
+  "SSN": "18050405",
+  "Email": "vothaiphuc@gmail.com",
+  "DOB": "28-12-1999",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "63747616a822d64ce20034cd"
+  },
+  "CustomerName": "Tran Hao Dan",
+  "SSN": "18050406",
+  "Email": "tranhaodanh@gmail.com",
+  "DOB": "20-02-1990",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "6374763ba822d64ce20034ce"
+  },
+  "CustomerName": "Son Tung",
+  "SSN": "18050407",
+  "Email": "sontungh@gmail.com",
+  "DOB": "24-09-1991",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "63747685a822d64ce20034cf"
+  },
+  "CustomerName": "Pham Minh Hieu",
+  "SSN": "18050411",
+  "Email": "phamminhhieuh@gmail.com",
+  "DOB": "17-02-1999",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "637476afa822d64ce20034d0"
+  },
+  "CustomerName": "Chung Tan Tai",
+  "SSN": "18050412",
+  "Email": "chungtantai@gmail.com",
+  "DOB": "27-08-1999",
+  "Address": "District 7, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "6377681f661ea1689d82c873"
+  },
+  "CustomerName": "caominhnhat",
+  "SSN": "51840910",
+  "Email": "caaominhnhat@gmail.com",
+  "DOB": "23-07-1999",
+  "Address": "District 4, Ho Chi Minh city"
+},{
+  "_id": {
+    "$oid": "63776870661ea1689d82c874"
+  },
+  "CustomerName": "Nguyen Thi Kim Lien",
+  "SSN": "51840911",
+  "Email": "nguyenthikimlien@gmail.com",
+  "DOB": "09-06-2000",
   "Address": "District 7, Ho Chi Minh city"
 }]

@@ -22,4 +22,380 @@
   "PlaceName": "Nha Trang Beach",
   "Address": "Nha Trang",
   "Discription": "Mother Nature favors Nha Trang with many things to captivate travelers. Among them, the enchanting beauty of the beaches has made a name for this city. Every Nha Trang beach receives millions of domestic and foreign visitors each year."
+},{
+  "_id": {
+    "$oid": "637630be12cdd24d4f3429ce"
+  },
+  "PlaceID": "place000004",
+  "PlaceName": "Phu Quoc Vinpearl",
+  "Address": "Phu Quoc Island",
+  "Discription": "nghỉ dưỡng tại Vinpearl Phú Quốc sẽ giúp chuyến đi của bạn trọn vẹn hơn bao giờ hết. Với không gian tinh tế, các dịch vụ, tiện ích đạt chuẩn 5 sao quốc tế, Vinpearl Phú Quốc chắc chắn sẽ đem đến cho bạn những khoảnh khắc thư giãn tuyệt vời."
+},{
+  "_id": {
+    "$oid": "6376313012cdd24d4f3429cf"
+  },
+  "PlaceID": "place000005",
+  "PlaceName": "Ha Long Bay",
+  "Address": "Ha Long city, Quang Ninh",
+  "Discription": "is a UNESCO World Heritage Site and popular travel destination in Quảng Ninh Province, Vietnam. The name Hạ Long means 'descending dragon'. Administratively, the bay belongs to Hạ Long city, Cẩm Phả city, and is a part of Vân Đồn district. The bay features thousands of limestone karsts and isles in various shapes and sizes. Hạ Long Bay is a center of a larger zone which includes Bai Tu Long Bay to the northeast, and Cát Bà Island to the southwest. These larger zones share a similar geological, geographical, geomorphological, climate, and cultural characters."
+},{
+  "_id": {
+    "$oid": "63764d6b12cdd24d4f3429d0"
+  },
+  "PlaceID": "place000006",
+  "PlaceName": "Hoi An accient town",
+  "Address": "Quang Nam",
+  "Discription": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site."
+},{
+  "_id": {
+    "$oid": "63764e0b12cdd24d4f3429da"
+  },
+  "PlaceID": "place000007",
+  "PlaceName": "Suoi Tien amusement park",
+  "Address": "Ho Chi Minh city",
+  "Discription": "Khu Du lịch Văn hóa Suối Tiên là một công viên liên hợp vui chơi giải trí kết hợp truyền thống các yếu tố văn hóa - lịch sử - tâm linh"
+},{
+  "_id": {
+    "$oid": "63764ef412cdd24d4f3429db"
+  },
+  "PlaceID": "place000008",
+  "PlaceName": "Dam Sen amusement park",
+  "Address": "Ho Chi Minh city",
+  "Discription": "Công viên Văn hóa Đầm Sen có 13 trò chơi cảm giác mạnh (Tàu lượn siêu tốc, vượt thác, Power Surge…); 5 trò chơi tương tác ảo công nghệ hiện đại; 5 trò chơi thư giãn; 12 trò chơi thiếu nhi; và nhiều trò chơi khác"
+},{
+  "_id": {
+    "$oid": "63764f7612cdd24d4f3429dc"
+  },
+  "PlaceID": "place000009",
+  "PlaceName": "Vung Tau beach",
+  "Address": "Ba Ria - Vung Tau",
+  "Discription": "About 125km Southeast of Ho Chi Minh City, there appears Vung Tau City, which is located in Vung Tau peninsula, the curved point of ‘S’ letter (map of Vietnam). This is the border of  the South and the West of Vietland, where we can see the sun on the East Sea, both rising and setting."
+},{
+  "_id": {
+    "$oid": "6376500312cdd24d4f3429dd"
+  },
+  "PlaceID": "place000010",
+  "PlaceName": "Bay Canh Island",
+  "Address": "Ba Ria - Vung Tau",
+  "Discription": "The noisy life of the mainland may make you feel too tired. It’s time finding an escape where you can immerse yourself in the lively sound of waves and ocean. And, Con Dao is ideal for this getaway. Once stepping into this paradise island, you definitely don’t want to leave it again. Comprising 16 smaller islands, Con Dao gives you many options for your visit. Among these, Bay Canh Island standouts as one of the most pristine and beautiful places that you should not miss."
+},{
+  "_id": {
+    "$oid": "6376503112cdd24d4f3429de"
+  },
+  "PlaceID": "place000011",
+  "PlaceName": "Con Dao Island",
+  "Address": "Ba Ria - Vung Tau",
+  "Discription": "Comprising of 16 islands of different sizes in Ba Ria – Vung Tau Province, Con Dao National Park is one of two national parks in Viet Nam owing both forest and marine protected area."
+},{
+  "_id": {
+    "$oid": "6376506012cdd24d4f3429df"
+  },
+  "PlaceID": "place000012",
+  "PlaceName": "Mt. Sapa",
+  "Address": "Lao Cai",
+  "Discription": "Sapa là một địa điểm du lịch nổi tiếng thuộc tỉnh Lào Cai, nằm tại phía Bắc của nước ta. Nhờ được tạo hóa ưu ái mà thiên nhiên Sapa hiện lên như một bức tranh ..."
+},{
+  "_id": {
+    "$oid": "6376520c12cdd24d4f3429e0"
+  },
+  "PlaceID": "place000013",
+  "PlaceName": "DaTANLA Waterfall",
+  "Address": "Da Lat",
+  "Discription": "Đến với khu du lịch thác Datanla bạn được tham gia trải nghiệm các trò chơi từ nhẹ nhàng đến mạo hiểm. Đặc biệt, bạn nên thử trò  duy nhất tại Đà Lạt đầy lôi cuốn. Ngoài ra, bạn có thể tham gia hoạt động , hoặc  để thử thách bản lĩnh của mình. Tất nhiên, Datanla không thể thiếu chèo thuyền và đi cáp treo để ngắm nhìn thiên nhiên núi rừng Đà Lạt."
+},{
+  "_id": {
+    "$oid": "6376528812cdd24d4f3429e1"
+  },
+  "PlaceID": "place000014",
+  "PlaceName": "ZooDoo Dalat",
+  "Address": "Da Lat",
+  "Discription": "Vườn thú ZooDoo còn là điểm tuyệt vời để cắm trại. Khi cắm trại tại đây, bạn không cần chuẩn bị gì vì đã có sẵn lều trại, bếp lò, và các vật dụng thiết yếu khác với giá thành khá mềm. Bạn có thể đem theo đồ ăn thức uống, nhưng nếu cần thì quán cafe ZooDoo luôn sẵn sàng phục vụ bạn với nhiều món ngon, dao động từ 15.000đ đến 30.000đ thôi. Vườn thú Zoodoo Đà Lạt giới hạn số lượng khách tham quan trong ngày, nên bạn nhớ dat ve trước ít nhất một ngày nhé."
+},{
+  "_id": {
+    "$oid": "637652c712cdd24d4f3429e2"
+  },
+  "PlaceID": "place000015",
+  "PlaceName": "Mt. Langbiang",
+  "Address": "Da Lat",
+  "Discription": "Được ví như trái tim của Đà Lạt, núi Langbiang nổi tiếng với loại hình dã ngoại, khám phá thiên nhiên, thu hút các bạn trẻ mê phượt và những nhà mạo hiểm. Nơi đây là ngôi nhà chung của nhiều loại thảo dược, thảo mộc, và chim quý. Ở , hoạt động thường thấy là tham quan ngắm cảnh. Ngoài ra, bạn có thể thử sức leo núi, chơi dù lượn, chinh phục đỉnh núi."
+},{
+  "_id": {
+    "$oid": "637652fa12cdd24d4f3429e3"
+  },
+  "PlaceID": "place000016",
+  "PlaceName": "Lumiere Garden",
+  "Address": "Da Lat",
+  "Discription": " có tất cả 9 phòng trưng bày với các chủ đề và không gian khác nhau. Bạn có thể thoải mái quay phim, chụp hình trong ánh đèn lung linh rực rỡ, lưu lại những dấu ấn nghệ thuật với cảm xúc thăng hoa nhất tại “tọa độ sống ảo” mới toanh này."
+},{
+  "_id": {
+    "$oid": "6376532412cdd24d4f3429e4"
+  },
+  "PlaceID": "place000017",
+  "PlaceName": "Mt. Robin",
+  "Address": "Da Lat",
+  "Discription": "Đồi Robin còn được gọi là khu du luch cap treo Da lat, với tuyến cáp treo dài hơn 2km từ đồi Robin tới Thiền Viện Trúc Lâm. Một chuyến cáp treo từ đồi Robin đến Thiền viện Trúc lâm sẽ mất khoảng 12 phút. Trong thời gian đó, bạn tha hồ chiêm ngưỡng toàn cảnh hồ Tuyền Lâm, núi Voi, đắm mình giữa thiên nhiên và lần lượt lướt qua núi rừng bao la, những vườn hoa rực rỡ hay những ngôi biệt thự cổ."
+},{
+  "_id": {
+    "$oid": "6376538812cdd24d4f3429e5"
+  },
+  "PlaceID": "place000018",
+  "PlaceName": "Tuyen Lam lake",
+  "Address": "Da Lat",
+  "Discription": "Hồ Tuyền Lâm Đà Lạt là một trong những hồ nước đẹp nhất Đà Lạt. Cùng với hồ Xuân Hương, hồ Tuyền Lâm chính là lá phổi xanh của thành phố – nơi bạn được thả hồn vào gió, nước, mây trời, và rừng thông tuyệt đẹp."
+},{
+  "_id": {
+    "$oid": "637653b212cdd24d4f3429e6"
+  },
+  "PlaceID": "place000019",
+  "PlaceName": "Xuan Huong lake",
+  "Address": "Da Lat",
+  "Discription": "Bất cứ ai khi đến trung tâm Đà Lạt đều cũng ngỡ ngàng trước vẻ đẹp của hồ Xuân Hương – viên ngọc xanh của thành phố – với hàng thông, những khóm hoa, bãi cỏ xanh mướt, giúp tô điểm thêm cho vẻ lãng mạn của nơi này. Đặc biệt, vào mùa xuân, ven hồ Xuân Hương thấp thoáng mai anh đào nở dịu dàng trong nắng."
+},{
+  "_id": {
+    "$oid": "637653d712cdd24d4f3429e7"
+  },
+  "PlaceID": "place000020",
+  "PlaceName": "Dalat Sculpture Tunnel",
+  "Address": "Da Lat",
+  "Discription": "Một trong những điểm tham quan nổi tiếng Đà Lạt đó là Đường hầm điêu khắc, hay còn được gọi là Đường hầm đất sét, hoặc Làng đất sét. Đường hầm điêu khắc Đà Lạt là đường hầm dài nhất thế giới được làm bằng đất sét, nổi bật với những tác phẩm miêu tả thiên nhiên, con người Đà Lạt bằng đất sét đỏ đặc trưng. Khu du lịch này còn là nơi tái hiện lại những công trình đặc trưng của thành phố như nhà ga xe lửa, nhà thờ Con Gà, núi Langbiang…"
+},{
+  "_id": {
+    "$oid": "6376543512cdd24d4f3429e8"
+  },
+  "PlaceID": "place000021",
+  "PlaceName": "Dalat Fairytale Land",
+  "Address": "Da Lat",
+  "Discription": "Vùng đất cổ tích Fairytale Land – Hầm rượu vang Vĩnh Tiến Đà Lạt là “thánh địa sống ảo” gây sốt trong thời gian gần đây. Khu du lịch này lấy ý tưởng từ ngôi làng cổ tích Hobbit tại phía bắc New Zealand để tạo nên thế giới của những người lùn, một vùng đất cổ tích dễ thương, cùng với đó là những vườn hoa đủ sắc màu, rực rỡ trong nắng."
+},{
+  "_id": {
+    "$oid": "6376546012cdd24d4f3429e9"
+  },
+  "PlaceID": "place000022",
+  "PlaceName": "Dalat QUE Garden",
+  "Address": "Da Lat",
+  "Discription": "Nếu yêu thích nghệ thuật cây cảnh bonsai, hãy ghé đến QUE Garden Đà Lạt, vườn bonsai lá kim lớn nhất Việt Nam. Đến , bạn ngỡ như mình đang ở đất nước mặt trời mọc, với những chậu cây bonsai được chăm sóc và uốn nắn kỹ lưỡng vô cùng đẹp mắt, bên cạnh hồ cá Koi đạt tiêu chuẩn Nhật Bản với hàng ngàn con cá Koi to khỏe."
+},{
+  "_id": {
+    "$oid": "6376548812cdd24d4f3429ea"
+  },
+  "PlaceID": "place000023",
+  "PlaceName": "Puppy Farm Dalat",
+  "Address": "Da Lat",
+  "Discription": "là một địa điểm chiếm được sự yêu mến của rất nhiều người, bởi đây là ngôi nhà chung của hơn 150 chú chó “cưng xỉu”. Khi đến đây, bạn không chỉ chơi đùa với những em cún dễ thương, mà còn được dạo quanh những cánh đồng hoa xinh đẹp, hay vườn nông sản được trồng theo công nghệ hiện đại. Tại trang trại luôn có đội ngũ nhân viên hướng dẫn, hỗ trợ nhiệt tình khi bạn cần."
+},{
+  "_id": {
+    "$oid": "637654bc12cdd24d4f3429eb"
+  },
+  "PlaceID": "place000024",
+  "PlaceName": "Domaine De Marie Church",
+  "Address": "Da Lat",
+  "Discription": "Nhà thờ được thiết kế, xây dựng theo phong cách Châu Âu thế kỉ thứ 17, không có tháp chuông, và hệ thống chiếu sáng được làm bằng những khung kính màu. Domaine De Marie nổi tiếng với màu vôi hồng nâu rực rỡ, nổi bật giữa vườn hoa hải tiên được trồng rất nhiều trong khuôn viên nhà thờ."
+},{
+  "_id": {
+    "$oid": "637654e912cdd24d4f3429ec"
+  },
+  "PlaceID": "place000025",
+  "PlaceName": "Pumpkin Garden",
+  "Address": "Da Lat",
+  "Discription": "Đà Lạt có nhiều nơi trồng bí ngô, nhưng phải kể đến vườn bí ngô khổng lồ của gia đình ông Phan, với ba loại bí khổng lồ có trọng lượng lên đến 100kg. Ngoài bí ngô khổng lồ, vườn của ông Phan còn trồng rất nhiều những loại rau quả khác theo mùa như: cải xoăn, bông cải, đặc biệt là cà chua đen và cà chua vàng."
+},{
+  "_id": {
+    "$oid": "6376551e12cdd24d4f3429ed"
+  },
+  "PlaceID": "place000026",
+  "PlaceName": "Bali green Hill",
+  "Address": "Da Lat",
+  "Discription": "Tọa lạc bên trong khu nghỉ dưỡng Greenland 2, Cổng trời Bali Đà Lạt, hay còn được biết đến với tên gọi là Green Hills Đà Lạt là một trong những địa điểm tham quan được các bạn trẻ ưa thích nhất Đà Lạt. Cổng trời Đà Lạt là phiên bản Việt của Cổng trời Bali tại ngôi đền Pura Lempuyang Luhur, Indonesia."
+},{
+  "_id": {
+    "$oid": "6376557c12cdd24d4f3429ee"
+  },
+  "PlaceID": "place000027",
+  "PlaceName": "Pongour Waterfall",
+  "Address": "Da Lat",
+  "Discription": "được rất nhiều người biết đến bởi sự hùng vĩ, hoang sơ với hệ động thực vật đa dạng và được mệnh danh là Nam Thiên Đệ Nhất Thác.Đặc điểm nhận dạng thác Pongour là dòng nước đổ dài xuống 7 tầng đá đầy rêu xanh, tạo nên một bức tranh đầy lôi cuốn mà thiên nhiên đã cất công tạo thành. Tham quan, khám phá thác nước này sẽ là một trải nghiệm đầy thú vị dành cho bạn. Ngoài ra, bạn có thể đem theo đồ ăn để nướng tại chỗ, hoặc tổ chức cắm trại qua đêm sau khi được sự đồng ý của ban quản lý khu du lịch."
+},{
+  "_id": {
+    "$oid": "637655aa12cdd24d4f3429ef"
+  },
+  "PlaceID": "place000028",
+  "PlaceName": "Linh An temple",
+  "Address": "Da Lat",
+  "Discription": "Đây là một ngôi chùa nổi tiếng ở Đà Lạt với kiến trúc ấn tượng và tiêu biểu. Linh Ẩn Tự Đà Lạt chào đón bạn bằng bức tượng Phật Di Lặc trắng tinh với nụ cười hiền hòa, bình an. Ngoài ra, bạn sẽ không khỏi trầm trồ trước bức tượng Phật Bà Quan Âm cao nhất Việt Nam, đứng sừng sững giữa không gian kỳ vĩ của núi rừng."
+},{
+  "_id": {
+    "$oid": "637655da12cdd24d4f3429f0"
+  },
+  "PlaceID": "place000029",
+  "PlaceName": "Van Thanh flower garden",
+  "Address": "Da Lat",
+  "Discription": "Nói đến hoa, chúng ta không thể không nhắc đến làng hoa Vạn Thành – một làng trồng hoa truyền thống đã làm rạng danh thương hiệu hoa Đà Lạt. Làng hoa đã được hình thành từ rất lâu, là nơi cung cấp hoa uy tín và chất lượng hàng đầu ở Đà Lạt, và trở thành địa điểm tham quan du lịch nổi tiếng."
+},{
+  "_id": {
+    "$oid": "6376561612cdd24d4f3429f1"
+  },
+  "PlaceID": "place000030",
+  "PlaceName": "Jean'd Arc church",
+  "Address": "Ho chi Minh city",
+  "Discription": "Nhà thờ Thánh Jeanne d'Arc là một nhà thờ Công giáo tại Thành phố Hồ Chí Minh."
+},{
+  "_id": {
+    "$oid": "6376569512cdd24d4f3429f2"
+  },
+  "PlaceID": "place000031",
+  "PlaceName": "Independence Palace",
+  "Address": "Ho Chi Minh cityL",
+  "Discription": "When it comes to Independence Palace or (Reunification Palace), its name does say what you want to know. As one of the finest colonial buildings in Saigon, it ..."
+},{
+  "_id": {
+    "$oid": "6376572b12cdd24d4f3429f3"
+  },
+  "PlaceID": "place000032",
+  "PlaceName": "Ben Thanh market",
+  "Address": "Q1 - Ho Chi Minh city",
+  "Discription": "Một trong những địa điểm du lịch Sài Gòn được nhiều du khách check-in trong chuyến đi của mình đó chính là Chợ Bến Thành. Đây là khu chợ tọa lạc tại trung tâm thành phố, 4 mặt đều giáp với những tuyến đường lớn nên rất thuận tiện cho việc di chuyển. Với những tín đồ mua sắm thì đây càng là điểm đến không thể bỏ lỡ."
+},{
+  "_id": {
+    "$oid": "6376576212cdd24d4f3429f4"
+  },
+  "PlaceID": "place000033",
+  "PlaceName": "Landmark 81",
+  "Address": "Q.Binh Thanh - Ho Chi Minh city",
+  "Discription": "Tòa nhà Landmark 81 là một trong những dự án lớn của Vingroup tại Thành phố Hồ Chí Minh. Công trình này có chiều cao lên tới 470m – hiện nay, đây là tòa nhà cao nhất tại Việt Nam."
+},{
+  "_id": {
+    "$oid": "637657ad12cdd24d4f3429f5"
+  },
+  "PlaceID": "place000034",
+  "PlaceName": "Dragon Habour",
+  "Address": "Q.4 - Ho Chi Minh city",
+  "Discription": "Một địa điểm du lịch Sài Gòn lưu giữ nhiều kỷ niệm, dấu ấn và hình ảnh của Chủ tịch Hồ Chí Minh vĩ đại đó là bến Nhà Rồng. Công trình này là chứng nhân lịch sử cho cuộc kháng chiến chống Pháp và chống Mỹ của dân tộc ta."
+},{
+  "_id": {
+    "$oid": "6376580d12cdd24d4f3429f6"
+  },
+  "PlaceID": "place000035",
+  "PlaceName": "Nguyen Hue Pedestrian",
+  "Address": "Q.1 - Ho Chi Minh city",
+  "Discription": "Nếu Hà Nội nổi tiếng với phố đi bộ Hồ Gươm thì tại Sài Gòn, bạn cũng có thể thư giãn cuối tuần trên tuyến phố đi bộ Nguyễn Huệ."
+},{
+  "_id": {
+    "$oid": "637658b212cdd24d4f3429f7"
+  },
+  "PlaceID": "place000036",
+  "PlaceName": "Dragon Brigde",
+  "Address": "Da Nang city",
+  "Discription": "Đưa vào hoạt động năm 2013, điểm tham quan Đà Nẵng Cầu Rồng là một trong những địa điểm du lịch mới ở Đà Nẵng hấp dẫn du khách. Với thiết kế độc đáo mang hình dáng con Rồng bắc qua sông Hàn thơ mộng, cầu Rồng là cây cầu thứ 7 tạo nên biểu tượng “thành phố của những câu cầu”. Đến đây vào các ngày cuối tuần, bạn còn xem được cảnh rồng phun lửa, phun nước sống động."
+},{
+  "_id": {
+    "$oid": "637658eb12cdd24d4f3429f8"
+  },
+  "PlaceID": "place000037",
+  "PlaceName": "Mt. Five Element",
+  "Address": "Da Nang city",
+  "Discription": "Điểm tham quan Đà Nẵng Ngũ Hành Sơn là tên gọi 6 ngọn núi, bao gồm: Kim Sơn, Mộc Sơn, Thủy Sơn, Thổ Sơn, Hỏa Sơn (Dương Hỏa Sơn và  m Hỏa Sơn). Những ngọn núi Đá vôi nằm dọc ven biển mang nét đẹp độc đáo hội tụ núi, biển, tâm linh thu hút du khách trong và ngoài nước đến tham quan, khám phá. Ngũ Hành Sơn là một trong 10 địa điểm du lịch Đà Nẵng nổi bật nhất và được công nhận là di tích Lịch sử Văn hóa cấp Quốc gia."
+},{
+  "_id": {
+    "$oid": "6376592212cdd24d4f3429f9"
+  },
+  "PlaceID": "place000038",
+  "PlaceName": "My Khe beach",
+  "Address": "Da Nang city",
+  "Discription": "Nơi đây có cảnh sắc tuyệt đẹp, đường bờ biển dài, cùng nước biển xanh trong, hiền hòa. Bãi biển Mỹ khê đã được Thành phố quy hoạch phát triển với nhiều loại hình dịch vụ vui chơi, giải trí. Nên khi đến đây, du khách ngoài dạo biển, tắm mát, còn được trải nghiệm nhiều hoạt động thú vị khác như dù lượn, lướt sóng, lặn biển,.."
+},{
+  "_id": {
+    "$oid": "6376595e12cdd24d4f3429fa"
+  },
+  "PlaceID": "place000039",
+  "PlaceName": "Ba Dinh square",
+  "Address": "Ha Noi capital",
+  "Discription": "Lăng Bác là nơi lưu giữ thi hài của vị lãnh tụ kính yêu. Bên ngoài lăng là những hàng tre xanh bát ngát. Lăng chủ tích mở cửa vào sáng thứ 3,4,5,7 và chủ nhật. Khi vào viếng lăng Bác, bạn chú ý ăn mặc chỉnh tề, không đem theo các thiết bị điện tử ghi hành và giữ trật tự trong lăng."
+},{
+  "_id": {
+    "$oid": "637659d612cdd24d4f3429fb"
+  },
+  "PlaceID": "place000040",
+  "PlaceName": "Sword Lake",
+  "Address": "Ha Noi capital",
+  "Discription": "Hồ Gươm hay hồ Hoàn Kiếm là một trong những nơi nên đến ở Hà Nội khi du lịch thủ đô. Nằm ở giữa trung tâm, Hồ Gươm được ví như trái tim của thành phố ngàn năm tuổi này.. Mặt hồ như tấm gương lớn soi bóng những cây cổ thụ, những rặng liễu thướt tha tóc rủ, những mái đền, chùa cổ kính, tháp cũ rêu phong, các toà nhà mới cao tầng vươn lên trời xanh."
+},{
+  "_id": {
+    "$oid": "63765a0612cdd24d4f3429fc"
+  },
+  "PlaceID": "place000041",
+  "PlaceName": "Ha Noi accient town",
+  "Address": "Ha Noi capital",
+  "Discription": "Muốn tìm hiểu về cuộc sống, văn hóa và con người Tràng An thì bạn đừng bỏ qua phố cổ – một trong những địa điểm du lịch ở Hà Nội đầy thú vị và hấp dẫn với du khách. Phố cổ Hà Nội nằm ở phía Tây và phía Bắc của Hồ Hoàn Kiếm, là nơi tập trung đông dân cư sinh sống có 36 phố phường. Mỗi con phố ở đây chủ yếu tập trung bán một loại mặt hàng nhất định. "
+},{
+  "_id": {
+    "$oid": "63765a2c12cdd24d4f3429fd"
+  },
+  "PlaceID": "place000042",
+  "PlaceName": "The Temple of Literature",
+  "Address": "Ha Noi capital",
+  "Discription": "Nếu kể tên các địa điểm du lịch Hà Nội bậc nhất xưa và nay có lẽ ai cũng sẽ nghĩ ngay đến Văn Miếu Quốc Tử Giám. Đây là một quần thể kiến trúc văn hoá hàng đầu và là niềm tự hào của người dân Thủ đô khi nhắc đến truyền thống ngàn năm văn hiến của Thăng Long – Đông Đô – Hà Nội."
+},{
+  "_id": {
+    "$oid": "63765a6512cdd24d4f3429fe"
+  },
+  "PlaceID": "place000043",
+  "PlaceName": "Hoa Lo prison",
+  "Address": "Ha Noi capital",
+  "Discription": "Nhà tù Hỏa Lò được thực dân Pháp xây dựng từ năm 1896 với tên gọi “Maison Central”, là nơi giam giữ những chiến sĩ cách mạng chống lại chế độ thực dân. Đây là một trong những công trình kiên cố vào loại bậc nhất Đông Dương khi đó. Sau ngày giải phóng thủ đô, nhà tù được đặt dưới quyền của chính quyền cách mạng. Từ năm 1963 đến 1975, nơi đây còn được sử dụng để làm nơi giam giữ những phi công Mỹ bị quân đội Việt Nam bắn rơi trong cuộc chiến tranh phá hoại miền Bắc."
+},{
+  "_id": {
+    "$oid": "63765aa312cdd24d4f3429ff"
+  },
+  "PlaceID": "place000044",
+  "PlaceName": "Thanh Long stronghold",
+  "Address": "Ha Noi capital",
+  "Discription": "Hoàng thành Thăng Long là quần thể di tích gắn liền với sự phát triển của Thăng Long – Hà Nội, được các triều vua xây dựng trong nhiều giai đoạn lịch sử. Đây cũng là di tích quan trọng bậc nhất trong hệ thống các di tích lịch sử của Việt Nam. Đến Hoàng thành Thăng Long du khách có thể tham quan những địa điểm nổi bật như khu khảo cổ học số 18 Hoàng Diệu, Đoan Môn, Điện Kính Thiên, Bắc Môn (thành Cửa Bắc..."
+},{
+  "_id": {
+    "$oid": "63765afa12cdd24d4f342a00"
+  },
+  "PlaceID": "place000045",
+  "PlaceName": "Hon Dau island",
+  "Address": "Hai Phong provincce",
+  "Discription": "Không gian tại Hòn Dấu Hải Phòng vô cùng thoáng đãng, mát mẻ, rất phù hợp với những chuyến du lịch cuối tuần. Tại đây, du khách có thể trải nghiệm các hoạt động du lịch biển, chụp ảnh check-in. Ngoài ra, tại địa điểm du lịch Hải Phòng này, du khách có thể dạo quanh ngắm nhìn những loài động vật sống tự nhiên tại đây như nai, thỏ, các loài chim… "
+},{
+  "_id": {
+    "$oid": "6376600312cdd24d4f342a01"
+  },
+  "PlaceID": "place000046",
+  "PlaceName": "Bach Long Vy island",
+  "Address": "Hai Phong provincce",
+  "Discription": "Đến với điểm du lịch Hải Phòng này, du khách đừng quên tham quan ngọn hải đăng có độ cao lên tới 80 mét. Bạn có thể leo lên tầng cao nhất của hải đăng và chiêm ngưỡng sự bao la của đất trời, biển cả. Đây cũng là điểm check-in lý tưởng giúp bạn có được những tấm hình độc – lạ nhất. "
+},{
+  "_id": {
+    "$oid": "6376605612cdd24d4f342a02"
+  },
+  "PlaceID": "place000047",
+  "PlaceName": "Kim Lien village",
+  "Address": "Nghe An provincce",
+  "Discription": "làng Kim Liên là nơi đã sinh thành và nuôi dưỡng nên vị lãnh tụ vĩ đại của dân tộc ta. Sau luỹ tre xanh cùng những hàng cau là ngôi nhà lá 5 gian đơn sơ, mộc mạc của gia đình cụ phó bảng Nguyễn Sinh Sắc, thân phụ của Chủ tịch Hồ Chí Minh. Hiện nay, dẫu thời gian đã trôi qua rất lâu nhưng các kỷ vật trong gian nhà của cụ Sắc vẫn còn được giữ lại hầu như nguyên vẹn từ chiếc rương, chiếc tủ, mâm gỗ cho đến cả chiếc án thư, bộ phản, nghiên mực…"
+},{
+  "_id": {
+    "$oid": "6376619212cdd24d4f342a03"
+  },
+  "PlaceID": "place000048",
+  "PlaceName": "Institute of Oceanography",
+  "Address": "Nha Trang",
+  "Discription": "Viện Hải dương học Nha Trang là nơi nghiên cứu đời sống các loài động thực vật biển tại thành phố Nha Trang tỉnh Khánh Hòa.Viện này được thành lập vào năm 1923 có địa chỉ tại số 1 Cầu Đá, cách trung tâm thành phố Nha Trang khoảng 6km về phía Đông Nam."
+},{
+  "_id": {
+    "$oid": "6376622512cdd24d4f342a04"
+  },
+  "PlaceID": "place000049",
+  "PlaceName": "Ponagar tower",
+  "Address": "Nha Trang",
+  "Discription": "Tháp bà Ponagar là một trong những quần thể kiến trúc văn hóa Chăm Pa lớn nhất ở miền Trung Việt Nam."
+},{
+  "_id": {
+    "$oid": "6376636b12cdd24d4f342a0a"
+  },
+  "PlaceID": "place000050",
+  "PlaceName": "Phong Van Bay",
+  "Address": "Nha Trang",
+  "Discription": "Nằm cách khá xa trung tâm thành phố (khoảng 40km về phía Bắc) nên Vịnh Vân Phong sở hữu cho mình một vẻ đẹp vô cùng hoang sơ, mộc mạc, bình yên đến lạ. Vẫn là bãi biển xanh trong đến lay động lòng người kia, nhưng Vân Phong không mang cái vẻ ồn ào, đông đúc của thành phố mà lặng yên hơn, trầm mặc hơn, bí ẩn hơn đợi người ta khám phá."
 }]
