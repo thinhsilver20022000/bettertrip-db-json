@@ -6,8 +6,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TC001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "6371194e863549a94c6806fb"
@@ -16,8 +16,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63711a49863549a94c6806fc"
@@ -26,9 +26,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63711b49863549a94c6806fe"
   },
@@ -36,9 +36,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TC004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63711b63863549a94c6806ff"
   },
@@ -46,9 +46,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TC004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771ad5d9c0c055a8f7bc11"
   },
@@ -56,9 +56,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TC001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b09d9c0c055a8f7bc12"
   },
@@ -66,9 +66,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TC001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b11d9c0c055a8f7bc13"
   },
@@ -76,9 +76,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b1dd9c0c055a8f7bc14"
   },
@@ -86,9 +86,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b36d9c0c055a8f7bc15"
   },
@@ -96,9 +96,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b3ed9c0c055a8f7bc16"
   },
@@ -106,9 +106,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b50d9c0c055a8f7bc17"
   },
@@ -116,9 +116,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b56d9c0c055a8f7bc18"
   },
@@ -126,9 +126,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b5fd9c0c055a8f7bc19"
   },
@@ -136,9 +136,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b73d9c0c055a8f7bc1a"
   },
@@ -146,9 +146,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771b8ad9c0c055a8f7bc1b"
   },
@@ -156,9 +156,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771c27d9c0c055a8f7bc28"
   },
@@ -166,9 +166,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771c49d9c0c055a8f7bc29"
   },
@@ -176,9 +176,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771c51d9c0c055a8f7bc2a"
   },
@@ -186,9 +186,9 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771c6fd9c0c055a8f7bc2f"
   },
@@ -196,9 +196,9 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TC003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
-},{
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
+  },{
   "_id": {
     "$oid": "63771c95d9c0c055a8f7bc30"
   },
@@ -206,8 +206,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771cb3d9c0c055a8f7bc31"
@@ -216,8 +216,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771cf1d9c0c055a8f7bc36"
@@ -226,8 +226,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d07d9c0c055a8f7bc37"
@@ -236,8 +236,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d11d9c0c055a8f7bc38"
@@ -246,8 +246,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d1dd9c0c055a8f7bc39"
@@ -256,8 +256,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d4ad9c0c055a8f7bc3a"
@@ -266,8 +266,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d59d9c0c055a8f7bc3b"
@@ -276,8 +276,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietjet Air",
+  "Thumbnail":"https://phuongviethcm.com/wp-content/uploads/2016/08/vietjet-air.png"
 },{
   "_id": {
     "$oid": "63771d98d9c0c055a8f7bc42"
@@ -286,8 +286,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771e09d9c0c055a8f7bc47"
@@ -296,8 +296,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771e5fd9c0c055a8f7bc48"
@@ -306,8 +306,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771e75d9c0c055a8f7bc49"
@@ -316,8 +316,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771e7fd9c0c055a8f7bc4a"
@@ -326,8 +326,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP003",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771e8ed9c0c055a8f7bc4b"
@@ -336,8 +336,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771ea6d9c0c055a8f7bc50"
@@ -346,8 +346,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771eadd9c0c055a8f7bc51"
@@ -356,8 +356,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771ec4d9c0c055a8f7bc52"
@@ -366,8 +366,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771ed4d9c0c055a8f7bc53"
@@ -376,8 +376,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771edfd9c0c055a8f7bc54"
@@ -386,8 +386,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP001",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771eebd9c0c055a8f7bc55"
@@ -396,8 +396,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771efbd9c0c055a8f7bc56"
@@ -406,8 +406,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f23d9c0c055a8f7bc57"
@@ -416,8 +416,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f2bd9c0c055a8f7bc58"
@@ -426,8 +426,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f3cd9c0c055a8f7bc59"
@@ -436,8 +436,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VJ212",
-  "AirlineID":"AL0001"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f43d9c0c055a8f7bc5a"
@@ -446,8 +446,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP002",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f50d9c0c055a8f7bc5b"
@@ -456,8 +456,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP003",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f8cd9c0c055a8f7bc5c"
@@ -466,8 +466,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771f97d9c0c055a8f7bc5d"
@@ -476,8 +476,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP001",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771fb2d9c0c055a8f7bc5e"
@@ -486,8 +486,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771fbbd9c0c055a8f7bc5f"
@@ -496,8 +496,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP002",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771fccd9c0c055a8f7bc60"
@@ -506,8 +506,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP002",
-  "FlightID":"VNA025",
-  "AirlineID":"AL0002"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771fded9c0c055a8f7bc61"
@@ -516,8 +516,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP003",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Vietravel Airlines",
+  "Thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietravel_Airlines_Logo.png"
 },{
   "_id": {
     "$oid": "63771ff2d9c0c055a8f7bc62"
@@ -526,8 +526,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP002",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772000d9c0c055a8f7bc63"
@@ -536,8 +536,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772009d9c0c055a8f7bc64"
@@ -546,8 +546,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP002",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772016d9c0c055a8f7bc69"
@@ -556,8 +556,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP002",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772027d9c0c055a8f7bc6a"
@@ -566,8 +566,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772035d9c0c055a8f7bc6b"
@@ -576,8 +576,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772045d9c0c055a8f7bc6c"
@@ -586,8 +586,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP003",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "6377205cd9c0c055a8f7bc6d"
@@ -596,8 +596,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772092d9c0c055a8f7bc6e"
@@ -606,8 +606,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637720a8d9c0c055a8f7bc6f"
@@ -616,8 +616,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637720c0d9c0c055a8f7bc70"
@@ -626,8 +626,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772150d9c0c055a8f7bc71"
@@ -636,8 +636,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP002",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "6377215fd9c0c055a8f7bc72"
@@ -646,8 +646,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VU780",
-  "AirlineID":"AL0003"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772165d9c0c055a8f7bc73"
@@ -656,8 +656,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP001",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772171d9c0c055a8f7bc74"
@@ -666,8 +666,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP001",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "6377218bd9c0c055a8f7bc75"
@@ -676,8 +676,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP001",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637721a0d9c0c055a8f7bc76"
@@ -686,8 +686,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637721add9c0c055a8f7bc77"
@@ -696,8 +696,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637721bfd9c0c055a8f7bc78"
@@ -706,8 +706,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637721e3d9c0c055a8f7bc79"
@@ -716,8 +716,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "637721f1d9c0c055a8f7bc7a"
@@ -726,8 +726,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772209d9c0c055a8f7bc7b"
@@ -735,7 +735,9 @@
   "TicketID": "6380074",
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
-  "TicketClassID": "TP002"
+  "TicketClassID": "TP002",
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "6377221ad9c0c055a8f7bc7c"
@@ -744,8 +746,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP004",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772225d9c0c055a8f7bc7d"
@@ -753,7 +755,9 @@
   "TicketID": "6380076",
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
-  "TicketClassID": "TP002"
+  "TicketClassID": "TP002",
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772232d9c0c055a8f7bc7e"
@@ -762,8 +766,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772239d9c0c055a8f7bc7f"
@@ -772,8 +776,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VH222",
-  "AirlineID":"AL0004"
+  "BrandName": "Bamboo Airways",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-Bamboo-Airways-H.png"
 },{
   "_id": {
     "$oid": "63772243d9c0c055a8f7bc80"
@@ -782,8 +786,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772254d9c0c055a8f7bc81"
@@ -792,8 +796,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP002",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377226cd9c0c055a8f7bc82"
@@ -802,8 +806,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP001",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772292d9c0c055a8f7bc83"
@@ -812,8 +816,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP002",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377229ed9c0c055a8f7bc84"
@@ -822,8 +826,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722b1d9c0c055a8f7bc85"
@@ -832,8 +836,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722bfd9c0c055a8f7bc86"
@@ -842,8 +846,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722d2d9c0c055a8f7bc87"
@@ -852,8 +856,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722efd9c0c055a8f7bc88"
@@ -862,8 +866,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722f6d9c0c055a8f7bc89"
@@ -872,8 +876,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "637722fcd9c0c055a8f7bc8a"
@@ -882,8 +886,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP001",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772302d9c0c055a8f7bc8b"
@@ -892,8 +896,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772318d9c0c055a8f7bc8c"
@@ -902,8 +906,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772320d9c0c055a8f7bc8d"
@@ -912,8 +916,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377232ed9c0c055a8f7bc8e"
@@ -922,8 +926,8 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377233cd9c0c055a8f7bc8f"
@@ -932,8 +936,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP004",
   "TicketClassID": "TP003",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772356d9c0c055a8f7bc90"
@@ -942,8 +946,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772373d9c0c055a8f7bc91"
@@ -952,8 +956,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP004",
-  "FlightID":"VN268",
-  "AirlineID":"AL0005"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377237ad9c0c055a8f7bc92"
@@ -962,8 +966,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP003",
   "TicketClassID": "TP004",
-  "FlightID":"VJ218",
-  "AirlineID":"AL0006"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772382d9c0c055a8f7bc93"
@@ -972,8 +976,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP003",
-  "FlightID":"VJ218",
-  "AirlineID":"AL0006"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "6377238dd9c0c055a8f7bc94"
@@ -982,8 +986,8 @@
   "TicketStatus": "purchased",
   "TicketPriceID": "TP002",
   "TicketClassID": "TP004",
-  "FlightID":"VJ218",
-  "AirlineID":"AL0006"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 },{
   "_id": {
     "$oid": "63772394d9c0c055a8f7bc95"
@@ -992,6 +996,6 @@
   "TicketStatus": "available",
   "TicketPriceID": "TP005",
   "TicketClassID": "TP003",
-  "FlightID":"VJ218",
-  "AirlineID":"AL0006"
+  "BrandName": "Vietnam Airlines",
+  "Thumbnail":"https://cdn.haitrieu.com/wp-content/uploads/2022/01/Logo-VNA-Sky-Te-V.png"
 }]
