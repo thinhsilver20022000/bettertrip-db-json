@@ -3,7 +3,7 @@
     "$oid": "63711555863549a94c6806e9"
   },
   "FlightID": "VJ212",
-  "AirlineID":"AL0001",
+  "AirlineID": "AL0001",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -26,7 +26,7 @@
     "$oid": "6373cb91805f44c3eac597c9"
   },
   "FlightID": "VJ168",
-  "AirlineID":"AL0001",
+  "AirlineID": "AL0001",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -49,7 +49,7 @@
     "$oid": "6373ccc5805f44c3eac597ca"
   },
   "FlightID": "VJ170",
-  "AirlineID":"AL0001",
+  "AirlineID": "AL0001",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -72,7 +72,7 @@
     "$oid": "6373cd27805f44c3eac597cb"
   },
   "FlightID": "VU780",
-  "AirlineID":"AL0001",
+  "AirlineID": "AL0001",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -95,7 +95,7 @@
     "$oid": "6373cdf8805f44c3eac597cc"
   },
   "FlightID": "VH222",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -118,7 +118,7 @@
     "$oid": "6373ce40805f44c3eac597cd"
   },
   "FlightID": "VH293",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -141,7 +141,7 @@
     "$oid": "6373ce8d805f44c3eac597ce"
   },
   "FlightID": "VN224",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "17-11-2022",
   "DepartureTime": {
     "$date": {
@@ -164,7 +164,7 @@
     "$oid": "6373cf16805f44c3eac597cf"
   },
   "FlightID": "VN262",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -187,7 +187,7 @@
     "$oid": "6375d5fd75311bbe5cf499ec"
   },
   "FlightID": "VJ632",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -210,7 +210,7 @@
     "$oid": "6375d67475311bbe5cf499ed"
   },
   "FlightID": "VJ213",
-  "AirlineID":"AL0002",
+  "AirlineID": "AL0002",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -233,7 +233,7 @@
     "$oid": "6375d6b275311bbe5cf499ee"
   },
   "FlightID": "VJ214",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -256,7 +256,7 @@
     "$oid": "6375d71475311bbe5cf499ef"
   },
   "FlightID": "VJ215",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -279,7 +279,7 @@
     "$oid": "6375d76d75311bbe5cf499f0"
   },
   "FlightID": "VJ216",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "22-12-2022",
   "DepartureTime": {
     "$date": {
@@ -302,7 +302,7 @@
     "$oid": "6375d8be75311bbe5cf499f1"
   },
   "FlightID": "VJ217",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "22-12-2022",
   "DepartureTime": {
     "$date": {
@@ -325,7 +325,7 @@
     "$oid": "6375d8fc75311bbe5cf499f2"
   },
   "FlightID": "VJ218",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "22-12-2022",
   "DepartureTime": {
     "$date": {
@@ -348,7 +348,7 @@
     "$oid": "6375d95275311bbe5cf499f3"
   },
   "FlightID": "VJ219",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -371,7 +371,7 @@
     "$oid": "6375d9b075311bbe5cf499f4"
   },
   "FlightID": "VJ220",
-  "AirlineID":"AL0003",
+  "AirlineID": "AL0003",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -394,7 +394,7 @@
     "$oid": "6375d9ed75311bbe5cf499f5"
   },
   "FlightID": "VJ221",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -417,7 +417,7 @@
     "$oid": "6375da7075311bbe5cf499f6"
   },
   "FlightID": "VJ222",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -440,7 +440,7 @@
     "$oid": "6375da9b75311bbe5cf499f7"
   },
   "FlightID": "VJ223",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -463,7 +463,7 @@
     "$oid": "6375db3075311bbe5cf499f8"
   },
   "FlightID": "VU781",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -486,7 +486,7 @@
     "$oid": "6375db6a75311bbe5cf499f9"
   },
   "FlightID": "VU782",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -509,7 +509,7 @@
     "$oid": "6375dba675311bbe5cf499fa"
   },
   "FlightID": "VU783",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -532,7 +532,7 @@
     "$oid": "6375dbe975311bbe5cf499fb"
   },
   "FlightID": "VU784",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -555,7 +555,7 @@
     "$oid": "6375dc1a75311bbe5cf499fc"
   },
   "FlightID": "VU785",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -578,7 +578,7 @@
     "$oid": "6375dd3d75311bbe5cf499fd"
   },
   "FlightID": "VU786",
-  "AirlineID":"AL0004",
+  "AirlineID": "AL0004",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -601,7 +601,7 @@
     "$oid": "6375dd6b75311bbe5cf499fe"
   },
   "FlightID": "VU787",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -624,7 +624,7 @@
     "$oid": "6375dde375311bbe5cf499ff"
   },
   "FlightID": "VU788",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -647,7 +647,7 @@
     "$oid": "6375de6875311bbe5cf49a00"
   },
   "FlightID": "VU789",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -670,7 +670,7 @@
     "$oid": "6375df6275311bbe5cf49a01"
   },
   "FlightID": "VU790",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -693,7 +693,7 @@
     "$oid": "6375dfa375311bbe5cf49a02"
   },
   "FlightID": "VU791",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "23-12-2022",
   "DepartureTime": {
     "$date": {
@@ -716,7 +716,7 @@
     "$oid": "6375e00875311bbe5cf49a03"
   },
   "FlightID": "VU792",
-  "AirlineID":"AL0005",
+  "AirlineID": "AL0005",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -739,7 +739,7 @@
     "$oid": "6375e08475311bbe5cf49a04"
   },
   "FlightID": "VH223",
-  "AirlineID":"AL0006",
+  "AirlineID": "AL0006",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -762,7 +762,7 @@
     "$oid": "6375e0ed75311bbe5cf49a05"
   },
   "FlightID": "VH223",
-  "AirlineID":"AL0006",
+  "AirlineID": "AL0006",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -785,7 +785,7 @@
     "$oid": "6375e13175311bbe5cf49a06"
   },
   "FlightID": "VH224",
-  "AirlineID":"AL0006",
+  "AirlineID": "AL0006",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -808,7 +808,7 @@
     "$oid": "6375e1ae75311bbe5cf49a07"
   },
   "FlightID": "VH225",
-  "AirlineID":"AL0006",
+  "AirlineID": "AL0006",
   "FlyDate": "17-12-2022",
   "DepartureTime": {
     "$date": {
@@ -831,7 +831,7 @@
     "$oid": "6375e1d675311bbe5cf49a08"
   },
   "FlightID": "VH226",
-  "AirlineID":"AL0007",
+  "AirlineID": "AL0007",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -854,7 +854,7 @@
     "$oid": "6375e2bf75311bbe5cf49a09"
   },
   "FlightID": "VH227",
-  "AirlineID":"AL0007",
+  "AirlineID": "AL0007",
   "FlyDate": "18-12-2022",
   "DepartureTime": {
     "$date": {
@@ -877,7 +877,7 @@
     "$oid": "6375e30375311bbe5cf49a0a"
   },
   "FlightID": "VH228",
-  "AirlineID":"AL0007",
+  "AirlineID": "AL0007",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -900,7 +900,7 @@
     "$oid": "6375e35f75311bbe5cf49a0b"
   },
   "FlightID": "VH230",
-  "AirlineID":"AL0007",
+  "AirlineID": "AL0007",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -923,7 +923,7 @@
     "$oid": "6375e3a975311bbe5cf49a0c"
   },
   "FlightID": "VN263",
-  "AirlineID":"AL0007",
+  "AirlineID": "AL0007",
   "FlyDate": "19-12-2022",
   "DepartureTime": {
     "$date": {
@@ -946,7 +946,7 @@
     "$oid": "6375e41475311bbe5cf49a0d"
   },
   "FlightID": "VN264",
-  "AirlineID":"AL0008",
+  "AirlineID": "AL0008",
   "FlyDate": "20-12-2022",
   "DepartureTime": {
     "$date": {
@@ -969,7 +969,7 @@
     "$oid": "6375e44475311bbe5cf49a0e"
   },
   "FlightID": "VN265",
-  "AirlineID":"AL0008",
+  "AirlineID": "AL0008",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -992,7 +992,7 @@
     "$oid": "6375e49775311bbe5cf49a0f"
   },
   "FlightID": "VN266",
-  "AirlineID":"AL0008",
+  "AirlineID": "AL0008",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1015,7 +1015,7 @@
     "$oid": "6375e51175311bbe5cf49a10"
   },
   "FlightID": "VN267",
-  "AirlineID":"AL0008",
+  "AirlineID": "AL0008",
   "FlyDate": "22-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1038,7 +1038,7 @@
     "$oid": "6375e5bc75311bbe5cf49a11"
   },
   "FlightID": "VN268",
-  "AirlineID":"AL0009",
+  "AirlineID": "AL0009",
   "FlyDate": "23-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1061,7 +1061,7 @@
     "$oid": "6375e5e775311bbe5cf49a12"
   },
   "FlightID": "VN269",
-  "AirlineID":"AL0009",
+  "AirlineID": "AL0009",
   "FlyDate": "23-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1084,7 +1084,7 @@
     "$oid": "6375e61e75311bbe5cf49a13"
   },
   "FlightID": "VN270",
-  "AirlineID":"AL0009",
+  "AirlineID": "AL0009",
   "FlyDate": "23-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1107,7 +1107,7 @@
     "$oid": "6375e64675311bbe5cf49a14"
   },
   "FlightID": "VN271",
-  "AirlineID":"AL0009",
+  "AirlineID": "AL0009",
   "FlyDate": "23-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1130,7 +1130,7 @@
     "$oid": "6375e67f75311bbe5cf49a15"
   },
   "FlightID": "VN272",
-  "AirlineID":"AL0010",
+  "AirlineID": "AL0010",
   "FlyDate": "21-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1153,7 +1153,7 @@
     "$oid": "6375e6b175311bbe5cf49a16"
   },
   "FlightID": "VN273",
-  "AirlineID":"AL0010",
+  "AirlineID": "AL0010",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1176,7 +1176,7 @@
     "$oid": "6375e6de75311bbe5cf49a17"
   },
   "FlightID": "VN274",
-  "AirlineID":"AL0010",
+  "AirlineID": "AL0010",
   "FlyDate": "24-12-2022",
   "DepartureTime": {
     "$date": {
@@ -1193,5 +1193,3386 @@
     "PremiumEconomy": 6,
     "Business": 9,
     "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637dfc6858180078a022de22"
+  },
+  "FlightID": "VJ224",
+  "AirlineID": "AL0005",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671966000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671975000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 1,
+    "Business": 6,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637dfd95918ecf2510c6e4c9"
+  },
+  "FlightID": "VJ225",
+  "AirlineID": "AL0005",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671982200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671989400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 10,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637dfdeb918ecf2510c6e4ca"
+  },
+  "FlightID": "VJ226",
+  "AirlineID": "AL0005",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671993000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671998400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 10,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637dfe17918ecf2510c6e4cb"
+  },
+  "FlightID": "VJ227",
+  "AirlineID": "AL0005",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672002000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672011000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 1,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637dfee5918ecf2510c6e4cd"
+  },
+  "FlightID": "VJ228",
+  "AirlineID": "AL0005",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672014600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672023600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 11,
+    "PremiumEconomy": 10,
+    "Business": 20,
+    "FirstClass": 14
+  }
+},{
+  "_id": {
+    "$oid": "637dff3b918ecf2510c6e4ce"
+  },
+  "FlightID": "VJ229",
+  "AirlineID": "AL0005",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672027200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672034400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 9,
+    "PremiumEconomy": 16,
+    "Business": 8,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e0081918ecf2510c6e4cf"
+  },
+  "FlightID": "VJ230",
+  "AirlineID": "AL0006",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672036200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672041600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 21,
+    "PremiumEconomy": 17,
+    "Business": 13,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e058c33481f6d80c847ef"
+  },
+  "FlightID": "VJ231",
+  "AirlineID": "AL0006",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672045200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672056000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 12,
+    "PremiumEconomy": 7,
+    "Business": 14,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e061633481f6d80c847f0"
+  },
+  "FlightID": "VJ232",
+  "AirlineID": "AL0007",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672057800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672066800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 17,
+    "PremiumEconomy": 11,
+    "Business": 15,
+    "FirstClass": 16
+  }
+},{
+  "_id": {
+    "$oid": "637e0f13975411f0d57b3827"
+  },
+  "FlightID": "VJ233",
+  "AirlineID": "AL0007",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672072200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672077600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 5,
+    "Business": 6,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e0f4e975411f0d57b3829"
+  },
+  "FlightID": "VJ234",
+  "AirlineID": "AL0007",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672083000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672092000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 11,
+    "Business": 9,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e0f7d975411f0d57b382a"
+  },
+  "FlightID": "VJ235",
+  "AirlineID": "AL0007",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672095600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672102800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 1,
+    "Business": 6,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e0fb3975411f0d57b382b"
+  },
+  "FlightID": "VJ236",
+  "AirlineID": "AL0008",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672104600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672110000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 7,
+    "Business": 4,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e0ff9975411f0d57b382c"
+  },
+  "FlightID": "VJ237",
+  "AirlineID": "AL0008",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672111800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672117200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 10,
+    "Business": 10,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e101b975411f0d57b382d"
+  },
+  "FlightID": "VJ238",
+  "AirlineID": "AL0008",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672119000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672128000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 8,
+    "Business": 3,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e106e975411f0d57b382e"
+  },
+  "FlightID": "VJ239",
+  "AirlineID": "AL0009",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672133400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672142400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 18,
+    "PremiumEconomy": 17,
+    "Business": 14,
+    "FirstClass": 15
+  }
+},{
+  "_id": {
+    "$oid": "637e1096975411f0d57b382f"
+  },
+  "FlightID": "VJ240",
+  "AirlineID": "AL0009",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672147800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672156800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 15,
+    "PremiumEconomy": 9,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e10eb975411f0d57b3830"
+  },
+  "FlightID": "VJ241",
+  "AirlineID": "AL0009",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672160400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672167600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 10,
+    "Business": 3,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e1123975411f0d57b3831"
+  },
+  "FlightID": "VJ242",
+  "AirlineID": "AL0009",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672171200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672180200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 0,
+    "Business": 4,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e116d975411f0d57b3832"
+  },
+  "FlightID": "VJ243",
+  "AirlineID": "AL0010",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672183800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672189200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 9,
+    "PremiumEconomy": 9,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e11ac975411f0d57b3834"
+  },
+  "FlightID": "VJ244",
+  "AirlineID": "AL0010",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672198200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672207200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 11,
+    "PremiumEconomy": 12,
+    "Business": 9,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e11d8975411f0d57b3835"
+  },
+  "FlightID": "VJ245",
+  "AirlineID": "AL0010",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672209000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672214400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 2,
+    "Business": 3,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e11f5975411f0d57b3836"
+  },
+  "FlightID": "VJ246",
+  "AirlineID": "AL0010",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672219800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672232400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 13,
+    "PremiumEconomy": 19,
+    "Business": 12,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e122e975411f0d57b3837"
+  },
+  "FlightID": "VJ247",
+  "AirlineID": "AL0010",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672228800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672236000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 14,
+    "PremiumEconomy": 2,
+    "Business": 6,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e1294975411f0d57b3838"
+  },
+  "FlightID": "VJ248",
+  "AirlineID": "AL0010",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672232400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672239600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 7,
+    "Business": 6,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e131b975411f0d57b3839"
+  },
+  "FlightID": "VJ249",
+  "AirlineID": "AL0011",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672243200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672250400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 2,
+    "Business": 3,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e139d975411f0d57b383a"
+  },
+  "FlightID": "VJ250",
+  "AirlineID": "AL0011",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672254000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672261200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 4,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e13c0975411f0d57b383b"
+  },
+  "FlightID": "VJ251",
+  "AirlineID": "AL0011",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672264800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672272000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 25,
+    "PremiumEconomy": 21,
+    "Business": 23,
+    "FirstClass": 24
+  }
+},{
+  "_id": {
+    "$oid": "637e13e5975411f0d57b383c"
+  },
+  "FlightID": "VJ252",
+  "AirlineID": "AL0012",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672275600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672282800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 17,
+    "PremiumEconomy": 20,
+    "Business": 13,
+    "FirstClass": 15
+  }
+},{
+  "_id": {
+    "$oid": "637e1423975411f0d57b383d"
+  },
+  "FlightID": "VJ253",
+  "AirlineID": "AL0012",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672286400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672293600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 16,
+    "PremiumEconomy": 14,
+    "Business": 9,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e144c975411f0d57b383e"
+  },
+  "FlightID": "VJ254",
+  "AirlineID": "AL0013",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672297200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672304400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 10,
+    "Business": 8,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e1480975411f0d57b383f"
+  },
+  "FlightID": "VJ255",
+  "AirlineID": "AL0013",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672308000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672315200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 13,
+    "PremiumEconomy": 10,
+    "Business": 13,
+    "FirstClass": 11
+  }
+},{
+  "_id": {
+    "$oid": "637e1528975411f0d57b3840"
+  },
+  "FlightID": "VJ256",
+  "AirlineID": "AL0013",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672318800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672326000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 7,
+    "PremiumEconomy": 14,
+    "Business": 14,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e154a975411f0d57b3841"
+  },
+  "FlightID": "VJ257",
+  "AirlineID": "AL0013",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672329600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672336800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e1593975411f0d57b3842"
+  },
+  "FlightID": "VJ258",
+  "AirlineID": "AL0013",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672340400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672354800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 0,
+    "Business": 3,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e15bd975411f0d57b3843"
+  },
+  "FlightID": "VJ259",
+  "AirlineID": "AL0014",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672358400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672365600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 4,
+    "Business": 3,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e15ea975411f0d57b3844"
+  },
+  "FlightID": "VJ260",
+  "AirlineID": "AL0014",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672369200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672376400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 5,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e1607975411f0d57b3845"
+  },
+  "FlightID": "VJ261",
+  "AirlineID": "AL0015",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672380000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672387200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 7,
+    "PremiumEconomy": 6,
+    "Business": 3,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e162a975411f0d57b3846"
+  },
+  "FlightID": "VJ262",
+  "AirlineID": "AL0015",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672390800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672401600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 7,
+    "Business": 5,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e164d975411f0d57b3847"
+  },
+  "FlightID": "VJ263",
+  "AirlineID": "AL0015",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672405200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672412400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 2,
+    "Business": 4,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e167f975411f0d57b3848"
+  },
+  "FlightID": "VJ264",
+  "AirlineID": "AL0016",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672416000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672423200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 3,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e16b7975411f0d57b3849"
+  },
+  "FlightID": "VJ265",
+  "AirlineID": "AL0016",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672426800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672437600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 0,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e1716975411f0d57b384b"
+  },
+  "FlightID": "VU794",
+  "AirlineID": "AL00017",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671928200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671937200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 13,
+    "PremiumEconomy": 9,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e173f975411f0d57b384c"
+  },
+  "FlightID": "VU795",
+  "AirlineID": "AL00017",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671942600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671951600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 0,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e1779975411f0d57b384d"
+  },
+  "FlightID": "VU796",
+  "AirlineID": "AL00017",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671957000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671966000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 7,
+    "Business": 8,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e17c1975411f0d57b384e"
+  },
+  "FlightID": "VU797",
+  "AirlineID": "AL00017",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671971400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671980400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 4,
+    "Business": 4,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e17e0975411f0d57b384f"
+  },
+  "FlightID": "VU798",
+  "AirlineID": "AL00017",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671989400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671998400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 1,
+    "Business": 4,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e1825975411f0d57b3850"
+  },
+  "FlightID": "VU799",
+  "AirlineID": "AL00018",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672012800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672020000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 10,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e184d975411f0d57b3851"
+  },
+  "FlightID": "VU800",
+  "AirlineID": "AL00018",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672023600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672030800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 14,
+    "Business": 19,
+    "FirstClass": 16
+  }
+},{
+  "_id": {
+    "$oid": "637e186c975411f0d57b3852"
+  },
+  "FlightID": "VU801",
+  "AirlineID": "AL00018",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672034400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672041600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 2,
+    "Business": 9,
+    "FirstClass": 14
+  }
+},{
+  "_id": {
+    "$oid": "637e18c2975411f0d57b3853"
+  },
+  "FlightID": "VU802",
+  "AirlineID": "AL00019",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672045200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672052400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 8,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e18e9975411f0d57b3854"
+  },
+  "FlightID": "VU803",
+  "AirlineID": "AL00019",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672070400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672077600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 4,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e19e7975411f0d57b3855"
+  },
+  "FlightID": "VU804",
+  "AirlineID": "AL00020",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672084800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672095600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 8,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e1a20975411f0d57b3856"
+  },
+  "FlightID": "VU805",
+  "AirlineID": "AL00020",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672099200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672110000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 7,
+    "PremiumEconomy": 4,
+    "Business": 2,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e1a44975411f0d57b3857"
+  },
+  "FlightID": "VU806",
+  "AirlineID": "AL00020",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672135200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672146000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 2,
+    "Business": 2,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e1a67975411f0d57b3858"
+  },
+  "FlightID": "VU807",
+  "AirlineID": "AL00020",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672171200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672182000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 9,
+    "Business": 3,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e1af0975411f0d57b3859"
+  },
+  "FlightID": "VU808",
+  "AirlineID": "AL00021",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672185600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672196400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 2,
+    "Business": 5,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e1b3f975411f0d57b385a"
+  },
+  "FlightID": "VU809",
+  "AirlineID": "AL00021",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672221600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672232400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 7,
+    "Business": 7,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e1b6f975411f0d57b385b"
+  },
+  "FlightID": "VU810",
+  "AirlineID": "AL00021",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672257600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672268400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 4,
+    "Business": 8,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e1c1a975411f0d57b385c"
+  },
+  "FlightID": "VU811",
+  "AirlineID": "AL00022",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672272000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672282800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 4,
+    "Business": 5,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e1c42975411f0d57b385d"
+  },
+  "FlightID": "VU812",
+  "AirlineID": "AL00022",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672308000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672318800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 7,
+    "Business": 1,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e1c67975411f0d57b385e"
+  },
+  "FlightID": "VU813",
+  "AirlineID": "AL00022",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672344000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672354800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 3,
+    "Business": 1,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e1c85975411f0d57b385f"
+  },
+  "FlightID": "VU814",
+  "AirlineID": "AL00023",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672358400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672369200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 3,
+    "Business": 6,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e1cab975411f0d57b3860"
+  },
+  "FlightID": "VU815",
+  "AirlineID": "AL00023",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672394400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672405200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 9,
+    "PremiumEconomy": 8,
+    "Business": 6,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e1cf6975411f0d57b3862"
+  },
+  "FlightID": "VU816",
+  "AirlineID": "AL00023",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672430400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672441200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 3,
+    "Business": 2,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e1d7b975411f0d57b3864"
+  },
+  "FlightID": "VN317",
+  "AirlineID": "AL0024",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671926400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671934800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 0,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e1de6975411f0d57b3865"
+  },
+  "FlightID": "VN318",
+  "AirlineID": "AL0024",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671933600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671942000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 10,
+    "Business": 10,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e1e0f975411f0d57b3866"
+  },
+  "FlightID": "VN319",
+  "AirlineID": "AL0024",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671940800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671949200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 4,
+    "Business": 9,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e1e32975411f0d57b3867"
+  },
+  "FlightID": "VN320",
+  "AirlineID": "AL0025",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671948000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671955200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 9,
+    "Business": 5,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e1ebf975411f0d57b3868"
+  },
+  "FlightID": "VN321",
+  "AirlineID": "AL0025",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671955200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671962400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 14,
+    "PremiumEconomy": 9,
+    "Business": 5,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e1edd975411f0d57b3869"
+  },
+  "FlightID": "VN322",
+  "AirlineID": "AL0025",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671962400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671969600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 0,
+    "Business": 2,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e1ef9975411f0d57b386a"
+  },
+  "FlightID": "VN323",
+  "AirlineID": "AL0026",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671969600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671976800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 1,
+    "Business": 3,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e1f24975411f0d57b386b"
+  },
+  "FlightID": "VN324",
+  "AirlineID": "AL0026",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671984000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1671991200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 3,
+    "Business": 3,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e1f61975411f0d57b386c"
+  },
+  "FlightID": "VN325",
+  "AirlineID": "AL0026",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1671998400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672005600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 4,
+    "Business": 6,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e1f89975411f0d57b386d"
+  },
+  "FlightID": "VN326",
+  "AirlineID": "AL0026",
+  "FlyDate": "25-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672005600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672012800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 7,
+    "Business": 8,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e1fbf975411f0d57b386e"
+  },
+  "FlightID": "VN327",
+  "AirlineID": "AL0027",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672012800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672020000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 7,
+    "Business": 4,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e1fe4975411f0d57b386f"
+  },
+  "FlightID": "VN328",
+  "AirlineID": "AL0027",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672020000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672027200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 5,
+    "Business": 14,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e2000975411f0d57b3870"
+  },
+  "FlightID": "VN329",
+  "AirlineID": "AL0027",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672034400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672041600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 7,
+    "PremiumEconomy": 2,
+    "Business": 0,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e201e975411f0d57b3871"
+  },
+  "FlightID": "VN330",
+  "AirlineID": "AL0027",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672041600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672048800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 0,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e203f975411f0d57b3872"
+  },
+  "FlightID": "VN331",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672048800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672056000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 2,
+    "Business": 2,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e2072975411f0d57b3873"
+  },
+  "FlightID": "VN332",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672056000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672063200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 4,
+    "Business": 2,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e208f975411f0d57b3874"
+  },
+  "FlightID": "VN333",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672063200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672070400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 4,
+    "Business": 7,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e20b3975411f0d57b3875"
+  },
+  "FlightID": "VN334",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672070400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672077600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 5,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e20d0975411f0d57b3876"
+  },
+  "FlightID": "VN335",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672077600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672084800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e20eb975411f0d57b3877"
+  },
+  "FlightID": "VN336",
+  "AirlineID": "AL0028",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672084800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672092000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 1,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e2108975411f0d57b3878"
+  },
+  "FlightID": "VN337",
+  "AirlineID": "AL0029",
+  "FlyDate": "26-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672092000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672099200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2128975411f0d57b3879"
+  },
+  "FlightID": "VN338",
+  "AirlineID": "AL0029",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672099200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672106400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 3,
+    "Business": 5,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e21fd975411f0d57b387a"
+  },
+  "FlightID": "VN339",
+  "AirlineID": "AL0029",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672106400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672113600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 8,
+    "PremiumEconomy": 3,
+    "Business": 5,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e2251975411f0d57b387f"
+  },
+  "FlightID": "VN340",
+  "AirlineID": "AL0030",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672113600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672120800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 4,
+    "Business": 5,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e226d975411f0d57b3880"
+  },
+  "FlightID": "VN341",
+  "AirlineID": "AL0030",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672120800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672128000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 5,
+    "Business": 5,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e228b975411f0d57b3881"
+  },
+  "FlightID": "VN342",
+  "AirlineID": "AL0030",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672128000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672135200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 4,
+    "Business": 1,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e22a9975411f0d57b3882"
+  },
+  "FlightID": "VN343",
+  "AirlineID": "AL0030",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672135200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672142400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 6,
+    "Business": 2,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e22df975411f0d57b3883"
+  },
+  "FlightID": "VN344",
+  "AirlineID": "AL0030",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672142400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672149600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 2,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e22fd975411f0d57b3884"
+  },
+  "FlightID": "VN345",
+  "AirlineID": "AL0031",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672149600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672156800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e231c975411f0d57b3885"
+  },
+  "FlightID": "VN346",
+  "AirlineID": "AL0031",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672156800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672164000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 0,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e233a975411f0d57b3886"
+  },
+  "FlightID": "VN347",
+  "AirlineID": "AL0031",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672164000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672171200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 2,
+    "Business": 10,
+    "FirstClass": 15
+  }
+},{
+  "_id": {
+    "$oid": "637e235b975411f0d57b3887"
+  },
+  "FlightID": "VN348",
+  "AirlineID": "AL0031",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672171200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672178400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e2376975411f0d57b3888"
+  },
+  "FlightID": "VN349",
+  "AirlineID": "AL0031",
+  "FlyDate": "27-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672178400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672185600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e238c975411f0d57b3889"
+  },
+  "FlightID": "VN350",
+  "AirlineID": "AL0032",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672185600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672192800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 10,
+    "Business": 10,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e23b2975411f0d57b388a"
+  },
+  "FlightID": "VN351",
+  "AirlineID": "AL0032",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672192800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672200000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 14,
+    "Business": 9,
+    "FirstClass": 6
+  }
+},{
+  "_id": {
+    "$oid": "637e23d2975411f0d57b388b"
+  },
+  "FlightID": "VN352",
+  "AirlineID": "AL0032",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672200000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672207200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 1,
+    "Business": 3,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e23f1975411f0d57b388c"
+  },
+  "FlightID": "VN353",
+  "AirlineID": "AL0032",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672207200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672214400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 8,
+    "Business": 3,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e240c975411f0d57b388d"
+  },
+  "FlightID": "VN354",
+  "AirlineID": "AL0032",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672214400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672221600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 5,
+    "Business": 3,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e2427975411f0d57b388e"
+  },
+  "FlightID": "VN355",
+  "AirlineID": "AL0033",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672221600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672228800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 4,
+    "Business": 3,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e2448975411f0d57b388f"
+  },
+  "FlightID": "VN356",
+  "AirlineID": "AL0033",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672228800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672236000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 7,
+    "PremiumEconomy": 7,
+    "Business": 3,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e2466975411f0d57b3890"
+  },
+  "FlightID": "VN357",
+  "AirlineID": "AL0033",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672236000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672243200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 7,
+    "Business": 3,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e24a8975411f0d57b3891"
+  },
+  "FlightID": "VN358",
+  "AirlineID": "AL0033",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672243200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672250400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 5,
+    "Business": 3,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e24cd975411f0d57b3892"
+  },
+  "FlightID": "VN359",
+  "AirlineID": "AL0033",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672250400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672257600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 5,
+    "Business": 3,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e24ed975411f0d57b3893"
+  },
+  "FlightID": "VN360",
+  "AirlineID": "AL0034",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672257600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672264800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 9,
+    "PremiumEconomy": 12,
+    "Business": 13,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e2513975411f0d57b3894"
+  },
+  "FlightID": "VN361",
+  "AirlineID": "AL0035",
+  "FlyDate": "28-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672264800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672272000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e2549975411f0d57b3895"
+  },
+  "FlightID": "VN362",
+  "AirlineID": "AL0035",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672272000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672279200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 7,
+    "Business": 1,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e257b975411f0d57b3896"
+  },
+  "FlightID": "VN363",
+  "AirlineID": "AL0035",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672279200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672286400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e25a0975411f0d57b3897"
+  },
+  "FlightID": "VN364",
+  "AirlineID": "AL0035",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672286400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672293600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 0,
+    "Business": 1,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e25cc975411f0d57b3898"
+  },
+  "FlightID": "VN365",
+  "AirlineID": "AL0036",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672293600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672300800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 4,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e25ea975411f0d57b3899"
+  },
+  "FlightID": "VN366",
+  "AirlineID": "AL0036",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672300800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672308000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 4,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2607975411f0d57b389a"
+  },
+  "FlightID": "VN367",
+  "AirlineID": "AL0037",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672308000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672315200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 10,
+    "Business": 1,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e262b975411f0d57b389b"
+  },
+  "FlightID": "VN368",
+  "AirlineID": "AL0037",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672315200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672322400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 8,
+    "Business": 4,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e265f975411f0d57b389d"
+  },
+  "FlightID": "VN369",
+  "AirlineID": "AL0037",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672322400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672329600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 8,
+    "Business": 4,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e2678975411f0d57b389e"
+  },
+  "FlightID": "VN370",
+  "AirlineID": "AL0037",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672329600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672336800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 7,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e269b975411f0d57b389f"
+  },
+  "FlightID": "VN371",
+  "AirlineID": "AL0038",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672336800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672344000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 4,
+    "Business": 3,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e26bb975411f0d57b38a0"
+  },
+  "FlightID": "VN372",
+  "AirlineID": "AL0038",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672344000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672351200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 4,
+    "Business": 3,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e26cd975411f0d57b38a1"
+  },
+  "FlightID": "VN373",
+  "AirlineID": "AL0038",
+  "FlyDate": "29-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672351200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672358400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 4,
+    "Business": 0,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e26f9975411f0d57b38a2"
+  },
+  "FlightID": "VN374",
+  "AirlineID": "AL0039",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672358400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672365600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 3,
+    "Business": 8,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e2722975411f0d57b38a3"
+  },
+  "FlightID": "VN375",
+  "AirlineID": "AL0039",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672365600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672372800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 3,
+    "Business": 0,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e273a975411f0d57b38a4"
+  },
+  "FlightID": "VN376",
+  "AirlineID": "AL0040",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672372800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672380000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 3,
+    "Business": 2,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e275a975411f0d57b38a5"
+  },
+  "FlightID": "VN377",
+  "AirlineID": "AL0041",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672380000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672387200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 3,
+    "Business": 2,
+    "FirstClass": 1
+  }
+},{
+  "_id": {
+    "$oid": "637e27a5975411f0d57b38a6"
+  },
+  "FlightID": "VN378",
+  "AirlineID": "AL0041",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672387200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672394400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 0,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e27c2975411f0d57b38a7"
+  },
+  "FlightID": "VN379",
+  "AirlineID": "AL0042",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672394400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672401600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 7,
+    "Business": 2,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e27e1975411f0d57b38a8"
+  },
+  "FlightID": "VN380",
+  "AirlineID": "AL0042",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672401600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672408800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 1,
+    "PremiumEconomy": 3,
+    "Business": 2,
+    "FirstClass": 2
+  }
+},{
+  "_id": {
+    "$oid": "637e2806975411f0d57b38a9"
+  },
+  "FlightID": "VN381",
+  "AirlineID": "AL0043",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672408800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672416000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 1,
+    "Business": 2,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2822975411f0d57b38aa"
+  },
+  "FlightID": "VN382",
+  "AirlineID": "AL0043",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672416000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672423200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 5,
+    "PremiumEconomy": 5,
+    "Business": 2,
+    "FirstClass": 8
+  }
+},{
+  "_id": {
+    "$oid": "637e2841975411f0d57b38ab"
+  },
+  "FlightID": "VN383",
+  "AirlineID": "AL0044",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672423200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672430400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 6,
+    "Business": 7,
+    "FirstClass": 4
+  }
+},{
+  "_id": {
+    "$oid": "637e2867975411f0d57b38ac"
+  },
+  "FlightID": "VN384",
+  "AirlineID": "AL0044",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672430400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672437600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 0,
+    "Business": 0,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2885975411f0d57b38ad"
+  },
+  "FlightID": "VN385",
+  "AirlineID": "AL0045",
+  "FlyDate": "30-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672437600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672444800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 10,
+    "PremiumEconomy": 20,
+    "Business": 20,
+    "FirstClass": 10
+  }
+},{
+  "_id": {
+    "$oid": "637e28aa975411f0d57b38ae"
+  },
+  "FlightID": "VN386",
+  "AirlineID": "AL0045",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672444800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672452000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 6,
+    "PremiumEconomy": 7,
+    "Business": 3,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e28ce975411f0d57b38af"
+  },
+  "FlightID": "VN387",
+  "AirlineID": "AL0045",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672452000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672459200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 0,
+    "Business": 3,
+    "FirstClass": 9
+  }
+},{
+  "_id": {
+    "$oid": "637e28f0975411f0d57b38b0"
+  },
+  "FlightID": "VN388",
+  "AirlineID": "AL0046",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672459200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672466400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 0,
+    "Business": 1,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e2910975411f0d57b38b1"
+  },
+  "FlightID": "VN389",
+  "AirlineID": "AL0046",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672466400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672473600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 1,
+    "Business": 1,
+    "FirstClass": 5
+  }
+},{
+  "_id": {
+    "$oid": "637e292a975411f0d57b38b2"
+  },
+  "FlightID": "VN390",
+  "AirlineID": "AL0046",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672473600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672480800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e2944975411f0d57b38b3"
+  },
+  "FlightID": "VN391",
+  "AirlineID": "AL0046",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672480800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672488000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 4,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 7
+  }
+},{
+  "_id": {
+    "$oid": "637e295b975411f0d57b38b4"
+  },
+  "FlightID": "VN392",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672488000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672495200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2973975411f0d57b38b5"
+  },
+  "FlightID": "VN393",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672495200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672502400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e2983975411f0d57b38b6"
+  },
+  "FlightID": "VN394",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672495200000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672502400000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 0,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 0
+  }
+},{
+  "_id": {
+    "$oid": "637e29a7975411f0d57b38b7"
+  },
+  "FlightID": "VN395",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672502400000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672509600000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 3,
+    "PremiumEconomy": 2,
+    "Business": 1,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e29c3975411f0d57b38b8"
+  },
+  "FlightID": "VN396",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672509600000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672516800000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 4,
+    "Business": 1,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e29d9975411f0d57b38b9"
+  },
+  "FlightID": "VN397",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672516800000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672524000000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 7,
+    "Business": 3,
+    "FirstClass": 3
+  }
+},{
+  "_id": {
+    "$oid": "637e29f2975411f0d57b38ba"
+  },
+  "FlightID": "VN398",
+  "AirlineID": "AL0047",
+  "FlyDate": "31-12-2022",
+  "DepartureTime": {
+    "$date": {
+      "$numberLong": "1672524000000"
+    }
+  },
+  "LandingTime": {
+    "$date": {
+      "$numberLong": "1672531200000"
+    }
+  },
+  "NumberEmptySeat": {
+    "Economy": 2,
+    "PremiumEconomy": 0,
+    "Business": 3,
+    "FirstClass": 3
   }
 }]
